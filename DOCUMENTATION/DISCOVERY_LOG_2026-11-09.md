@@ -298,3 +298,22 @@ El creador aclara que el efecto del **Caramelo de Chimó y Yerbabuena** es tempo
 ### Respuesta de Cara de León al silbido
 
 El creador confirma que, cuando JP utiliza el silbido frente a la casa del árbol, **Cara de León sale automáticamente**. No se ha indicado ningún paso adicional entre el silbido y su aparición.
+
+
+### Trasfondo compartido del grupo y apertura en casa de JP
+
+El creador confirma que Jotape, Cara de León, Yt0 y DD01 son amigos antes de que comience el juego. El día anterior, durante la celebración de los «sopotocientos años» del Valle Pao, participaron en una serie de competiciones deportivas contra los campeones de las disciplinas, conocidos como **Los Fulton**. JP y sus amigos ganaron y son los vigentes campeones. El torneo no se juega: el jugador conoce este antecedente mediante una posible fotografía, placa o recuerdo en la habitación de JP y por felicitaciones/comentarios de NPC al salir a recorrer Valle Pao. El recuerdo concreto y los diálogos quedan POR DEFINIR.
+
+**Robotina** es un robot creado por el Prof. Bichito para atender la casa y cuidar de JP; actúa como señora de servicio/nana. Al comienzo despierta a JP en su habitación y le comunica que el Prof. Bichito lo está buscando y necesita hablar con él.
+
+Este trasfondo confirma que el reclutamiento de Cara de León y Yt0 es un reencuentro entre amigos, no el primer encuentro entre desconocidos. DD01 también pertenece al grupo de amigos, aunque JP deba ir a buscarlo a las Cuevas del Indio.
+
+### Reclutamiento de Yt0 en el gimnasio
+
+El creador explica que Yt0 se encuentra en un gimnasio o zona de ejercicios de Valle Pao. Está tan enfocado en su rutina que no la interrumpe por nada del mundo. Los NPC describen su disciplina y seriedad con el entrenamiento.
+
+Algunos NPC hablan de **«Fuerza de Loco»**, habilidad que permite mover objetos pesados. En el gimnasio hay una roca o balón medicinal muy pesado que nadie consigue mover. Un NPC da una pista sobre cómo obtener la habilidad mediante una bebida especial. JP debe reunir los ingredientes, preparar la bebida y tomársela; entonces puede mover el objeto del gimnasio. Al ver la demostración, Yt0 interrumpe su rutina, pregunta cómo consiguió JP aprender esa habilidad y, por su interés en aprenderla, se une al grupo.
+
+La secuencia conecta la identidad de Yt0 como entusiasta del ejercicio con el desbloqueo de su habilidad de exploración y con su reclutamiento. La habilidad Fuerza de Loco conserva también su uso de combate ya definido: un ataque de fuerza contra todos los enemigos.
+
+**Pendiente:** nombre/ubicación definitiva del gimnasio; identidad del NPC que da la pista; ingredientes y receta de la bebida; si el objeto es una roca o balón medicinal; diálogos; y si Yt0 aprende la habilidad al unirse o en un momento posterior.
