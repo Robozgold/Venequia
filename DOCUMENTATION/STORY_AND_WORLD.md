@@ -229,3 +229,23 @@ Este acontecimiento no debe interpretarse como la reaparición general de todos 
 **Propuesta técnica para RPG Maker MZ, pendiente de implementación:** activar un Switch cuando DD01 se una a la party (por ejemplo, `DD01_RESCATADO`) y utilizarlo como condición para habilitar el evento del nuevo grupo de criaturas en el exterior. Un segundo Switch puede registrar que el encuentro ya fue completado y evitar que se repita al volver a entrar y salir del mapa. Los nombres son identificadores sugeridos, no nombres definitivos.
 
 Queda POR DEFINIR qué criaturas aparecen, por qué están allí, si atacan inmediatamente o se activan por proximidad, y qué sucede después de la batalla.
+
+
+### Primer indicio del misterio: alteraciones ambientales y criaturas agresivas en Valle Pao
+
+El creador establece que, desde hace un tiempo, en Valle Pao están ocurriendo cosas extrañas a las que aparentemente nadie presta suficiente atención:
+
+- El aire se siente contaminado.
+- El agua parece estar en mal estado o «piche».
+- Los animales y otras criaturas se comportan de manera anormal.
+- Criaturas que antes no atacaban a las personas ahora se muestran agresivas y las atacan.
+
+El fenómeno no comienza con la llegada de JP: lleva un tiempo desarrollándose antes de los acontecimientos jugables del capítulo I. La causa todavía es desconocida para el jugador y queda POR DEFINIR en la historia.
+
+#### Introducción mediante un NPC al comienzo del juego
+
+El creador propone que el primer NPC con quien JP se encuentre al salir de su casa —ubicación y personaje todavía por confirmar— advierta que desde hace un tiempo suceden cosas extrañas y que parece que nadie les presta atención. El NPC puede mencionar el aire contaminado, el agua en mal estado y el comportamiento anormal de los animales.
+
+Este diálogo planta una pista temprana sobre el misterio ambiental. Más adelante, los ataques de criaturas durante la exploración de las Cuevas del Indio y el nuevo encuentro exterior después de rescatar a DD01 pueden mostrar al jugador que la agresividad de los animales forma parte de un problema más amplio.
+
+**Importante:** la relación entre el deterioro del aire/agua, el comportamiento de las criaturas y cualquier acontecimiento dentro de las Cuevas del Indio es una línea de misterio por desarrollar. No se ha confirmado todavía una causa concreta, responsable ni explicación.
