@@ -109,6 +109,17 @@ La idea central es que la habilidad conecte exploración y combate. Para el cap�
 
 Confirmación del creador: los cuatro personajes principales de la party del capítulo I son **Jotape, CareLeón, Yt0 y DD01**.
 
+### DD01: origen, curación y casetes musicales
+
+El creador explica que DD01 es un robot creado por el **Prof. Bichito** como robot de exploración. No fue creado para la batalla. Sus habilidades primarias estarán orientadas a la **curación** y al apoyo; a medida que se desarrolle el juego, aprenderá habilidades de combate.
+
+El creador propone además que durante la aventura se encuentren **casetes musicales**:
+- Solo DD01 puede reproducirlos.
+- Al utilizar un casete durante una batalla, cambia la música de combate.
+- La música aumenta atributos del grupo, como ataque o defensa.
+
+Quedan pendientes de definir los efectos concretos, duración, consumo o reutilización de los casetes, cómo se activan y seleccionan en batalla, y su obtención.
+
 ### Habilidad inicial de DD01
 
 > DD01
