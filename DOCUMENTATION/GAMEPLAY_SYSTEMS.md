@@ -339,3 +339,10 @@ La persistencia concreta de los enemigos derrotados dentro de la mazmorra deber�
 Los encuentros con animales y criaturas agresivas del capítulo I están vinculados a un fenómeno extraño que afecta Valle Pao desde antes del comienzo del juego. El creador confirma los siguientes indicios ambientales: aire que se siente contaminado, agua en mal estado o «piche» y animales/criaturas que han comenzado a comportarse de forma anormal. Algunas criaturas que antes no atacaban ahora se vuelven agresivas y atacan a las personas.
 
 El primer indicio puede presentarlo un NPC que JP encuentra al salir de casa. La causa del fenómeno y su relación con los sucesos de las Cuevas del Indio quedan POR DEFINIR. La documentación de los enemigos deberá mantener abierta esta incógnita y no atribuir su agresividad a una causa no confirmada.
+
+
+### Estado de DD01 al encontrarlo en la mazmorra
+
+DD01 se encuentra **inconsciente** cuando JP y sus compañeros lo localizan en las Cuevas del Indio. Tras despertarlo, explica que fue atacado por una criatura de alto nivel y que fue derrotado en batalla.
+
+Este hecho establece narrativamente que existen enemigos mucho más peligrosos dentro de la mazmorra. La escena y el diálogo de recuperación de DD01 quedan por implementar. No se ha definido si la criatura responsable aparecerá de nuevo ni si el jugador deberá combatirla en ese momento.
