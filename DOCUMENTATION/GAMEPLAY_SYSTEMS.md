@@ -21,6 +21,15 @@ La personalidad propia de Venequia estará principalmente en el contenido del co
 - Habilidades de los personajes.
 - Enemigos y encuentros con identidad propia.
 
+### Identidad y habilidades de los personajes — decisión confirmada
+
+Cada personaje tendrá **habilidades personalizadas y diferenciadas**. Los repertorios no serán idénticos: cada integrante tendrá técnicas que reflejen su propia identidad y le den una utilidad reconocible dentro del grupo.
+
+- Puede haber habilidades similares entre personajes (por ejemplo, dos técnicas de ataque o de apoyo), pero no tienen que ser copias exactas.
+- Las habilidades similares podrán diferenciarse por sus efectos, potencia, coste, alcance, condiciones o utilidad táctica.
+- La meta es que cada personaje se sienta distinto y que elegir la composición del equipo tenga interés, sin añadir complejidad innecesaria al sistema clásico.
+- Los nombres, efectos, estadísticas, costes y progresión de cada habilidad quedan POR DEFINIR.
+
 ### Principios de implementación
 
 - Mantener una estructura clásica de combate RPG por turnos.
@@ -36,7 +45,9 @@ La personalidad propia de Venequia estará principalmente en el contenido del co
 - Comandos disponibles en batalla: POR CONFIRMAR.
 - Tamaño del grupo y número de enemigos: POR CONFIRMAR.
 - Recursos (vida, energía, etc.): POR CONFIRMAR.
-- Catálogo de skills y habilidades por personaje: POR CONFIRMAR.
+- Catálogo de habilidades personalizadas por personaje: POR DEFINIR.
+- Qué habilidades similares pueden compartir personajes y cómo se diferencian: POR DEFINIR.
+- Método de aprendizaje/desbloqueo de habilidades: POR CONFIRMAR.
 - Inventario de items utilizables en batalla: POR CONFIRMAR.
 - Enemigos, jefes, estadísticas y patrones: POR CONFIRMAR.
 - Condiciones de victoria/derrota: POR CONFIRMAR.
