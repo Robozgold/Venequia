@@ -118,7 +118,7 @@ El creador propone además que durante la aventura se encuentren **casetes music
 - Al utilizar un casete durante una batalla, cambia la música de combate.
 - La música aumenta atributos del grupo, como ataque o defensa.
 
-Quedan pendientes de definir los efectos concretos, duración, consumo o reutilización de los casetes, cómo se activan y seleccionan en batalla, y su obtención.
+El creador deja la duración a criterio de la opción más sencilla. Como preferencia práctica inicial, se propone que el efecto dure toda la batalla y termine al finalizar el combate, evitando contar turnos; queda sujeto a comprobar la implementación en RPG Maker MZ. También quedan pendientes los efectos concretos, consumo o reutilización de los casetes, cómo se activan y seleccionan en batalla, y su obtención.
 
 ### Habilidad inicial de DD01
 
