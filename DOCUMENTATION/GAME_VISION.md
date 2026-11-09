@@ -53,12 +53,18 @@ Pilares iniciales derivados de la visión confirmada; deberán validarse con el 
 4. **Reflexión:** dejar espacio para que el jugador piense, sin sacrificar el disfrute.
 5. **Identidad autoral:** preservar la perspectiva personal del creador.
 
+## Estructura de producción
+
+El juego se desarrollará por capítulos. Cada capítulo debe poder planificarse, completarse y probarse como una unidad de producción, manteniendo continuidad narrativa y técnica con los demás.
+
+El primer capítulo se estima actualmente en un 70% de completitud, según el creador. Las tareas pendientes mencionadas son batallas, personalización de NPCs, items y diálogos. Esta estimación y su desglose deben validarse inspeccionando el proyecto.
+
 ## Género y tecnología
 
 - Género: RPG.
 - Motor: RPG Maker MZ.
 - Presentación: 2D y pixel art, según la dirección de producción descrita.
-- Combate, progresión, estructura de capítulos y alcance exacto: documentar a partir de la versión real del juego.
+- Combate, progresión y alcance exacto: documentar a partir de la versión real del juego.
 
 ## Definición de éxito
 
@@ -74,3 +80,4 @@ POR DEFINIR. Acordar los límites de humor, lenguaje, referencias, representaci�
 2. ¿Qué aspectos específicos de cada videojuego de referencia inspiran Venequia?
 3. ¿Qué tono predomina y cómo se combinan humor, nostalgia y reflexión?
 4. ¿Qué debe contener la primera versión que se publicará?
+5. ¿Qué condiciones concretas deben cumplirse para declarar terminado el capítulo 1?
