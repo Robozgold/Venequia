@@ -21,14 +21,26 @@ La personalidad propia de Venequia estará principalmente en el contenido del co
 - Habilidades de los personajes.
 - Enemigos y encuentros con identidad propia.
 
-### Identidad y habilidades de los personajes — decisión confirmada
+### Identidad y habilidades de los personajes — decisiones confirmadas
 
 Cada personaje tendrá **habilidades personalizadas y diferenciadas**. Los repertorios no serán idénticos: cada integrante tendrá técnicas que reflejen su propia identidad y le den una utilidad reconocible dentro del grupo.
 
-- Puede haber habilidades similares entre personajes (por ejemplo, dos técnicas de ataque o de apoyo), pero no tienen que ser copias exactas.
+- Puede haber habilidades similares entre personajes, pero no tienen que ser copias exactas.
 - Las habilidades similares podrán diferenciarse por sus efectos, potencia, coste, alcance, condiciones o utilidad táctica.
 - La meta es que cada personaje se sienta distinto y que elegir la composición del equipo tenga interés, sin añadir complejidad innecesaria al sistema clásico.
-- Los nombres, efectos, estadísticas, costes y progresión de cada habilidad quedan POR DEFINIR.
+
+#### Alcance específico del capítulo I
+
+El creador ha definido una progresión inicial deliberadamente limitada:
+
+- Cada uno de los cuatro personajes principales de la party aprenderá o tendrá **una sola habilidad especial** durante el capítulo I.
+- **Dos personajes** aprenderán su habilidad al alcanzar un nivel determinado.
+- **Un personaje** aprenderá su habilidad mediante un objeto.
+- **Un personaje** ya tendrá su habilidad cuando se una a la party.
+- La identidad de cada habilidad, los personajes asignados a cada método, el nivel exacto y el objeto concreto quedan POR DEFINIR.
+- Esta limitación corresponde al capítulo I; no determina todavía cuántas habilidades podrán aprender en capítulos posteriores.
+
+La intención es introducir variedad y progresión sin abrumar al jugador ni complicar el balance temprano.
 
 ### Principios de implementación
 
@@ -45,9 +57,11 @@ Cada personaje tendrá **habilidades personalizadas y diferenciadas**. Los reper
 - Comandos disponibles en batalla: POR CONFIRMAR.
 - Tamaño del grupo y número de enemigos: POR CONFIRMAR.
 - Recursos (vida, energía, etc.): POR CONFIRMAR.
-- Catálogo de habilidades personalizadas por personaje: POR DEFINIR.
+- Nombre, efecto y función de la habilidad de cada personaje: POR DEFINIR.
+- Qué dos personajes aprenden por nivel y a qué nivel: POR DEFINIR.
+- Qué personaje aprende mediante objeto y cuál es el objeto: POR DEFINIR.
+- Qué personaje ya conoce su habilidad al unirse a la party: POR DEFINIR.
 - Qué habilidades similares pueden compartir personajes y cómo se diferencian: POR DEFINIR.
-- Método de aprendizaje/desbloqueo de habilidades: POR CONFIRMAR.
 - Inventario de items utilizables en batalla: POR CONFIRMAR.
 - Enemigos, jefes, estadísticas y patrones: POR CONFIRMAR.
 - Condiciones de victoria/derrota: POR CONFIRMAR.
