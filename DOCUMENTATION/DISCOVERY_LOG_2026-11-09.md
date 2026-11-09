@@ -99,6 +99,7 @@ El creador describe a Yt0 como un fiel creyente del ejercicio físico cuya meta 
 - En el mapa, podrá mover rocas u objetos pesados que bloqueen zonas, siguiendo como referencia funcional la habilidad Strength de Pokémon.
 - En combate, ejecutará un supergolpe que atacará a todos los enemigos.
 - Yt0 aprenderá esta habilidad mediante un objeto especial.
+- El objeto será una **bebida que el jugador debe preparar combinando 2 o 3 ingredientes**. Los ingredientes, la receta, el nombre de la bebida y la forma de conseguirlos siguen sin definirse.
 
 La idea central es que la habilidad conecte exploración y combate. Para el capítulo I, la capacidad se limita a mover los obstáculos pesados previstos para esta etapa y ejecutar el supergolpe contra todos los enemigos. El creador considera posible que la habilidad suba de nivel o se fortalezca más adelante, pero todavía no lo ha definido; por tanto, esa evolución queda como posibilidad y no como decisión confirmada. El nombre propio, el objeto que la enseña, el daño, el coste y las reglas exactas de los obstáculos siguen pendientes de definición.
 
