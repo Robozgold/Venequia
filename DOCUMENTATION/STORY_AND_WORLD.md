@@ -108,12 +108,13 @@ El creador explica que **reclutar a Cara de León requiere que JP aprenda a silb
 5. Mateo está dispuesto a darle el caramelo a JP si lo ayuda con su hijo **Tiburcio**, que lleva meses encerrado en un clóset y no se atreve a salir.
 6. Al entrar en la casa, JP encuentra una puerta detrás de la cual está Tiburcio. Tiburcio se niega a salir.
 7. Explorando Valle Pao, JP encuentra un recorte de periódico con un anuncio de Ciudad Caótica en el que solicitan un peluquero para «lavar cabezas».
-8. JP lleva el recorte a Tiburcio. Al recibirlo, Tiburcio encuentra una oportunidad relacionada con su vocación y finalmente sale del clóset.
-9. Una vez que Tiburcio sale, Mateo cumple su parte y entrega a JP el caramelo que estimula el silbido.
-10. Al regresar a la habitación de Tiburcio, JP encuentra allí la **tanga rosada/fucsia** que más adelante entregará a **Bichito Birriondo** a cambio de la linterna.
+8. JP lleva el recorte a Tiburcio. Al recibirlo, Tiburcio encuentra una oportunidad relacionada con su vocación y decide salir del clóset.
+9. Tiburcio abandona Valle Pao y toma rumbo a **Ciudad Caótica** para perseguir su sueño de trabajar como peluquero y lavar cabezas.
+10. Una vez que Tiburcio se ha marchado, Mateo cumple su parte y entrega a JP el caramelo que estimula el silbido.
+11. JP puede revisar la habitación de Tiburcio y encuentra la **tanga rosada/fucsia entre la ropa sucia**. Más adelante se la entrega a **Bichito Birriondo** a cambio de la linterna.
 
 **Conexión entre objetivos:** el caramelo permite a JP silbar y llamar a Cara de León en la casa del árbol. La tanga de Tiburcio sirve para completar el intercambio con Birriondo y obtener la linterna necesaria para entrar en las Cuevas del Indio. De esta manera, la exploración de Valle Pao conecta el reclutamiento de Cara de León con la misión principal de rescatar a DD01.
 
 **Personajes y objetos confirmados en esta cadena:** Mateo Rocadulce (padre de Tiburcio); Tiburcio Rocadulce; Cara de León; el caramelo que estimula el silbido; el recorte de periódico con la oferta de trabajo de peluquero; la tanga rosada/fucsia; Bichito Birriondo; la linterna.
 
-**Pendiente de definir:** nombre del caramelo; dónde exactamente aparece el recorte de periódico; el texto y los detalles del anuncio; la presentación y los diálogos de la escena de Tiburcio; cómo se obtiene exactamente la tanga (el creador confirma que está en la habitación de Tiburcio una vez que sale); y la grafía definitiva del nombre de Cara de León frente a «CareLeón».
+**Pendiente de definir:** nombre del caramelo; dónde exactamente aparece el recorte de periódico; el texto y los detalles del anuncio; la presentación y los diálogos de la escena de Tiburcio; y la grafía definitiva del nombre de Cara de León frente a «CareLeón».
