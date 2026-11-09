@@ -77,6 +77,6 @@ Se han mencionado **Pase por un día**, **Huevos Chimbos** y **Guarapita Shots**
 6. En las afueras hay un **guardabosques** que no permite el paso. Para entrar, exige que el jugador lleve una **linterna** y tenga al menos **dos compañeros**.
 7. Este requisito obliga al jugador a conseguir a **Cara de León** y a **Yt0** antes de poder acceder a la mazmorra y continuar la misión de encontrar a DD01.
 
-**Función narrativa y jugable:** la búsqueda de DD01 es el objetivo principal que pone en marcha la aventura. El bloqueo de la entrada establece un objetivo intermedio claro y motiva la incorporación de Cara de León y Yt0 al equipo. La linterna es un requisito confirmado; su obtención y la forma concreta de conseguirla aún están POR DEFINIR.
+**Función narrativa y jugable:** la búsqueda de DD01 es el objetivo principal que pone en marcha la aventura. El bloqueo de la entrada establece un objetivo intermedio claro y motiva la incorporación de Cara de León y Yt0 al equipo. La linterna es un requisito confirmado. Un NPC se la entregará a JP a cambio de otro objeto. La identidad del NPC y el objeto que JP deberá intercambiar todavía están POR DEFINIR.
 
-**Pendiente de confirmar:** la grafía definitiva del nombre «Cara de León» frente a la forma «CareLeón» usada en otros documentos; la ubicación y obtención de la linterna; las condiciones concretas para reclutar a cada compañero; y los acontecimientos dentro de las Cuevas del Indio.
+**Pendiente de confirmar:** la grafía definitiva del nombre «Cara de León» frente a la forma «CareLeón» usada en otros documentos; la identidad del NPC y el objeto que se intercambiará por la linterna; las condiciones concretas para reclutar a cada compañero; y los acontecimientos dentro de las Cuevas del Indio.
