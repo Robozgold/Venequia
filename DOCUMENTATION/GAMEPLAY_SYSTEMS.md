@@ -179,3 +179,10 @@ Los casetes son **objetos consumibles de un solo uso**. Cuando DD01 reproduce un
 #### Límite de uso en combate — decisión confirmada
 
 En cada batalla solo se podrá utilizar **un casete**. Una vez reproducido, no se podrá activar otro casete durante ese mismo combate. El efecto del casete elegido permanece durante toda la batalla. Esta regla evita combinar mejoras y mantiene el sistema sencillo.
+
+
+#### Obtención de uno de los casetes — Patinetada y banda PUNK T.A.M.P. — confirmación del creador
+
+En Valle Pao se celebra una **Patinetada** para conmemorar los «sopotocientos años» del lugar. Una de las atracciones del evento es la presentación en vivo de la banda **PUNK T.A.M.P.**, cuyo nombre significa **«Tírame algo menos piedra»**.
+
+Durante la celebración hay una tienda que vende mercancía de la banda. En esa tienda el jugador podrá conseguir uno de los casetes asociados al sistema musical de DD01. El creador aún no ha concretado si el casete se regala, se obtiene como parte de una compra u otra interacción con la tienda; el método exacto queda POR DEFINIR.
