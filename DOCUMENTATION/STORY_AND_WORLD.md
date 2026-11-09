@@ -173,3 +173,15 @@ La escena funciona como prueba de que JP ha adquirido una capacidad que Yt0 resp
 **Relación con el sistema de habilidades:** Fuerza de Loco es la habilidad de Yt0 que tiene aplicaciones tanto en exploración —mover obstáculos pesados— como en combate —un ataque de fuerza contra todos los enemigos—. La bebida y la receta son el método de desbloqueo previsto para la habilidad asociada a Yt0; queda por concretar si JP aprende primero la habilidad para superar la prueba y después Yt0 se une, o si el objeto representa también el aprendizaje que Yt0 desea replicar.
 
 **Pendiente de definir:** ubicación y nombre definitivo del gimnasio; NPC que da la pista; ingredientes exactos y número final (dos o tres); nombre y preparación de la bebida; si el objeto del gimnasio es una roca o un balón medicinal; diálogo de Yt0 al ver la demostración; y si Yt0 aprende la habilidad inmediatamente al unirse o más adelante. La grafía y presentación definitivas de «Fuerza de Loco» deben conservarse como las indique el creador.
+
+
+#### Aclaración confirmada: Fuerza de Loco temporal para JP y habilidad propia de Yt0
+
+La bebida que JP prepara para superar la prueba del gimnasio **no le concede Fuerza de Loco de forma permanente**. Uno de los ingredientes utilizados no es exactamente el ingrediente habitual/necesario para preparar esa bebida, pero funciona como sustituto y produce un efecto temporal.
+
+- JP bebe la mezcla y obtiene Fuerza de Loco solo durante el tiempo necesario para mover la roca o el balón medicinal del gimnasio.
+- Después de mover el objeto, JP pierde la habilidad. No vuelve a obtenerla ni a utilizarla durante el resto del juego.
+- **Yt0 es el único personaje que aprende y conserva Fuerza de Loco como habilidad propia.**
+- Sigue POR DEFINIR si Yt0 ya posee la habilidad al incorporarse a la party o si la aprende al subir de nivel. La decisión se tomará buscando la implementación más sencilla.
+
+Esta aclaración sustituye cualquier interpretación anterior según la cual JP aprendiera permanentemente la habilidad o la bebida fuera necesariamente el método de aprendizaje permanente de Yt0.
