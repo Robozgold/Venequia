@@ -191,3 +191,8 @@ Durante la celebración hay una tienda que vende mercancía de la banda. En esa 
 #### Obtención de otro casete — Rashid, compañero del DJ — confirmación del creador
 
 El DJ del Valle Pao tiene un compañero llamado **Rashid**. Rashid podrá obsequiar al jugador uno de los casetes musicales. La forma concreta de activar/recibir el regalo (diálogo, misión, condición o momento) queda POR DEFINIR.
+
+
+#### Obtención del tercer casete — casa de Valle Pao — confirmación del creador
+
+El tercer casete podrá encontrarse dentro de una de las casas de Valle Pao. Como posible presentación dentro del escenario, estará guardado dentro de un **radio portátil/reproductor portátil de casetes**. La casa concreta y la interacción para recogerlo quedan POR DEFINIR.
