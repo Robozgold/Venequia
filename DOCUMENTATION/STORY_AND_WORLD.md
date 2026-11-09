@@ -218,3 +218,14 @@ Los enemigos visibles podrán presentar al menos dos comportamientos, según el 
 - Otros permanecerán en medio de un camino o pasillo y bloquearán el avance. Será necesario derrotarlos para continuar; al terminar la batalla, desaparecerán del mapa y el jugador podrá pasar.
 
 Así, los encuentros no serán todos iguales: unos surgirán de la exploración y otros serán obstáculos deliberados en el recorrido. Qué criaturas usarán cada comportamiento y en qué puntos aparecerán queda POR DEFINIR.
+
+
+#### Regreso al exterior tras encontrar a DD01: nuevo encuentro de criaturas
+
+El creador confirma que, después de encontrar a DD01 y conseguir que se una al grupo, JP y sus compañeros deben salir de las Cuevas del Indio. Al regresar al exterior, el grupo se encontrará con **otro grupo de criaturas** y tendrá que enfrentarse a ellas.
+
+Este acontecimiento no debe interpretarse como la reaparición general de todos los enemigos derrotados dentro de la mazmorra. Los enemigos eliminados y los pasillos despejados de las cuevas deben permanecer así. El encuentro exterior es un nuevo acontecimiento narrativo, activado después del rescate y la incorporación de DD01.
+
+**Propuesta técnica para RPG Maker MZ, pendiente de implementación:** activar un Switch cuando DD01 se una a la party (por ejemplo, `DD01_RESCATADO`) y utilizarlo como condición para habilitar el evento del nuevo grupo de criaturas en el exterior. Un segundo Switch puede registrar que el encuentro ya fue completado y evitar que se repita al volver a entrar y salir del mapa. Los nombres son identificadores sugeridos, no nombres definitivos.
+
+Queda POR DEFINIR qué criaturas aparecen, por qué están allí, si atacan inmediatamente o se activan por proximidad, y qué sucede después de la batalla.
