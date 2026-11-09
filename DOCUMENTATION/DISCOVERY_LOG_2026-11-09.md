@@ -317,3 +317,12 @@ Algunos NPC hablan de **«Fuerza de Loco»**, habilidad que permite mover objeto
 La secuencia conecta la identidad de Yt0 como entusiasta del ejercicio con el desbloqueo de su habilidad de exploración y con su reclutamiento. La habilidad Fuerza de Loco conserva también su uso de combate ya definido: un ataque de fuerza contra todos los enemigos.
 
 **Pendiente:** nombre/ubicación definitiva del gimnasio; identidad del NPC que da la pista; ingredientes y receta de la bebida; si el objeto es una roca o balón medicinal; diálogos; y si Yt0 aprende la habilidad al unirse o en un momento posterior.
+
+
+### Aclaración del creador: Fuerza de Loco temporal para JP; habilidad permanente exclusiva de Yt0
+
+El creador aclara que, para simplificar el sistema, JP solo obtiene **Fuerza de Loco temporalmente** al beber la mezcla de la prueba del gimnasio. Uno de los ingredientes empleados no es exactamente el que se necesitaría normalmente para preparar esa bebida, pero puede funcionar como sustituto y otorgar el efecto. JP utiliza esa fuerza para mover la roca o el balón medicinal y, una vez que lo hace, pierde la habilidad. No vuelve a tener Fuerza de Loco durante el juego.
+
+**Yt0 es el único personaje que aprende y conserva Fuerza de Loco como habilidad propia.** Queda sin decidir si Yt0 ya la posee cuando se une a la party o si la aprende al subir de nivel; el creador se inclina por la opción más sencilla para no complicar la implementación.
+
+Esta aclaración precisa y reemplaza la ambigüedad anterior sobre si JP aprendía la habilidad de forma permanente y sobre si la bebida era el objeto de aprendizaje permanente de Yt0.
