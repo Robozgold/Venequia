@@ -1,9 +1,9 @@
 # Registro de descubrimiento — respuestas del creador
 
 **Fecha:** 2026-11-09  
-**Fuente:** primera ronda del cuestionario maestro de Venequia.
+**Fuente:** rondas iniciales del cuestionario maestro de Venequia.
 
-Este registro conserva las respuestas originales en forma resumida y apunta a los documentos principales donde se han incorporado. No añade hechos argumentales que el creador no haya confirmado.
+Este registro conserva las respuestas del creador y apunta a los documentos principales donde se han incorporado. No añade hechos argumentales que el creador no haya confirmado.
 
 ## A. Identidad y objetivo
 
@@ -39,37 +39,39 @@ Falta especificar qué elementos concretos de cada referencia son influyentes.
 
 La finalización y publicación son objetivos explícitos. La planificación debe proteger el alcance y favorecer entregas concretas.
 
-## B. Estado actual
+## B. Estado y estructura del desarrollo
 
-### Valoración general del creador
-> El juego está bastante avanzado. Hay mapas, los personajes principales están hechos, algunas mecánicas, intro. Falta es completarlo.
+### Estructura por capítulos
+> El juego se va a desarrollar por capítulos.
 
-### Activos existentes, según el creador
-- Mapas.
-- Personajes principales diseñados.
-- Algunas mecánicas implementadas.
-- Introducción del juego.
+La producción y planificación se organizarán capítulo por capítulo.
 
-### Pendiente de auditoría
-Se debe inspeccionar una copia del proyecto para conocer:
-- qué mapas están terminados;
-- qué eventos y mecánicas funcionan;
-- qué contenido está incompleto;
-- cómo está construida la introducción;
-- qué errores técnicos y dependencias existen;
-- qué falta para completar una versión publicable.
+### Estado del capítulo 1
+> Digamos que el primer capítulo está en un 70% completado.
+
+Es una estimación del creador, todavía no validada mediante inspección técnica ni pruebas de principio a fin.
+
+### Trabajo pendiente mencionado
+> Habría que agregar batallas, personalizar NPCs, items y diálogos.
+
+Pendientes identificados:
+- Añadir batallas.
+- Personalizar NPCs.
+- Completar items.
+- Completar diálogos.
+
+Esta lista es el primer desglose del trabajo pendiente, no necesariamente la lista exhaustiva. Se revisará contra el proyecto real.
+
+### Estado general previo
+El creador ya había indicado que existen mapas, personajes principales, algunas mecánicas y una introducción.
 
 ## Documentos principales actualizados
 
 - [Visión de Venequia](GAME_VISION.md)
 - [Ficha y estado del proyecto](PROJECT_OVERVIEW.md)
-- [Biblia narrativa y mundo](STORY_AND_WORLD.md)
+- [Especificación de sistemas jugables](GAMEPLAY_SYSTEMS.md)
+- [Hoja de ruta](../PROJECT-MANAGEMENT/ROADMAP.md)
 
-## Próxima ronda sugerida
+## Próximo paso
 
-Profundizar en el estado real del juego y en la historia:
-1. Qué ocurre en la introducción.
-2. Qué puede hacer el jugador actualmente.
-3. Qué mapas están completos.
-4. Qué falta específicamente para cerrar el primer capítulo.
-5. Qué significa para el creador considerar Venequia terminado y listo para publicar.
+Inspeccionar una copia segura del proyecto RPG Maker MZ para construir un inventario real del capítulo 1: mapas, eventos, batallas pendientes, NPCs, items, diálogos, plugins y errores. A partir de ese inventario se podrá convertir el 30% pendiente en tareas concretas y verificables.
