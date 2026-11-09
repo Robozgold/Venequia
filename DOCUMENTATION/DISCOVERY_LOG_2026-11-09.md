@@ -221,3 +221,20 @@ Esta curiosidad puede reflejarse en preguntas y comentarios sobre amistad, afect
 ### Evolución gradual de DD01
 
 El creador acepta como buena dirección que DD01 vaya comprendiendo mejor las emociones y relaciones humanas y desarrollando una sensibilidad propia a medida que avanza la historia, capítulo tras capítulo. Se registra como orientación para su arco narrativo a largo plazo; los acontecimientos y cambios concretos quedan POR DEFINIR.
+
+
+### Inicio del capítulo I: encargo del Prof. Bichito y búsqueda de DD01
+
+El creador describe la misión principal con la que comienza el juego:
+
+- El jugador comienza controlando a **JP/Jotape**, líder de la travesía.
+- La primera misión obligatoria es ir a hablar con el **Prof. Bichito**, quien está buscando a JP.
+- El profesor explica que envió a **DD01** a las **Cuevas del Indio**, una especie de mazmorra, para analizar ciertos minerales.
+- Por algún motivo, el profesor ya no puede localizar a DD01. Piensa que posiblemente perdió la señal y necesita que JP vaya a las cuevas a buscarlo.
+- La búsqueda de DD01 es la misión principal que pone en marcha la aventura. Lo que parece un encargo sencillo comienza a complicarse al llegar a las cuevas.
+- En las afueras de la entrada hay un **guardabosques** que no permite el paso. Exige que el jugador tenga una **linterna** y al menos **dos compañeros**.
+- Este bloqueo obliga al jugador a conseguir a **Cara de León** y a **Yt0** antes de entrar en las Cuevas del Indio.
+
+La secuencia establece una motivación narrativa para reunir al primer equipo y un objetivo intermedio para el jugador. La linterna está confirmada como requisito, pero su obtención y ubicación todavía no se han definido.
+
+**Pendiente:** confirmar la grafía definitiva de «Cara de León» frente a «CareLeón»; definir cómo se consigue la linterna; concretar cómo se incorporan Cara de León y Yt0; y desarrollar los eventos y el rescate de DD01 dentro de las cuevas.
