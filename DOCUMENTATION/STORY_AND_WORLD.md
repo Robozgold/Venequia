@@ -185,3 +185,10 @@ La bebida que JP prepara para superar la prueba del gimnasio **no le concede Fue
 - **Decisión:** Yt0 se une a la party sin Fuerza de Loco y la aprende al subir de nivel. El nivel exacto queda POR DEFINIR.
 
 Esta aclaración sustituye cualquier interpretación anterior según la cual JP aprendiera permanentemente la habilidad o la bebida fuera necesariamente el método de aprendizaje permanente de Yt0.
+
+
+#### Segunda aplicación de Fuerza de Loco: obstáculo en las Cuevas del Indio
+
+El creador confirma que dentro de las **Cuevas del Indio** habrá otra roca pesada que bloquea el camino. A diferencia de la prueba del gimnasio, esta roca solo podrá ser movida cuando **Yt0 esté en la party y ya haya aprendido Fuerza de Loco al subir de nivel**.
+
+Este obstáculo demuestra la utilidad posterior de la habilidad propia de Yt0 y permite que el aprendizaje por nivel tenga una recompensa directa en la exploración de la mazmorra. La ubicación exacta de la roca, qué zona o recompensa desbloquea y si es obligatoria para avanzar quedan POR DEFINIR.
