@@ -169,3 +169,8 @@ El creador ya ha compuesto varias pistas musicales con Suno específicamente par
 - Al incorporarse DD01, el jugador podrá utilizar los casetes que haya conseguido, ya que únicamente este personaje puede reproducirlos.
 - La cantidad indicada es aproximada (unos tres) para el primer capítulo.
 - La ubicación y método de obtención de cada casete, y el efecto musical/atributo de cada pista, siguen POR DEFINIR.
+
+
+#### Consumo de casetes — decisión confirmada
+
+Los casetes son **objetos consumibles de un solo uso**. Cuando DD01 reproduce un casete, este se gasta y se elimina del inventario; no puede volver a utilizarse. Esta regla se aplica a los casetes del capítulo I y debe reflejarse en la descripción del objeto y en la lógica de inventario/combate.
