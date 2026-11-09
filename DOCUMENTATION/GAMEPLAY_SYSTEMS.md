@@ -59,7 +59,7 @@ Yt0 es un personaje que cree firmemente en el ejercicio físico y tiene como met
 - **Exploración:** Yt0 podrá mover rocas u otros objetos pesados que bloqueen caminos, abriendo el acceso a zonas que antes no estaban disponibles. La referencia funcional es la habilidad Strength de Pokémon: mover obstáculos del escenario para desbloquear rutas.
 - **Combate:** Yt0 ejecutará un golpe de fuerza extrema que atacará a **todos los enemigos** del grupo contrario.
 - **Desbloqueo:** la habilidad se aprenderá mediante un objeto especial, coherente con la progresión ya definida para Yt0.
-- **Naturaleza del objeto:** será una bebida que el jugador deberá elaborar combinando **2 o 3 ingredientes**. Los ingredientes concretos, la receta, el nombre de la bebida y cómo se obtienen todavía están POR DEFINIR.
+- **Naturaleza del objeto:** será una bebida que el jugador deberá elaborar combinando **2 o 3 ingredientes**. La combinación incluirá **un ingrediente especial y uno cotidiano**; si se usan 2 o 3 ingredientes en total, y cuáles serán, queda POR DEFINIR. La receta, el nombre de la bebida y cómo se obtienen todavía están POR DEFINIR.
 
 El objetivo de diseño es que una misma habilidad tenga utilidad tanto en el mapa como en batalla, conectando exploración y combate. Para el **capítulo I**, esta es la capacidad inicial prevista: mover los obstáculos pesados definidos para esta etapa y ejecutar un ataque de fuerza contra todos los enemigos. El creador considera que la habilidad podría aumentar de nivel o fortalecerse más adelante, pero esa progresión todavía no está decidida y no debe asumirse como sistema confirmado. El nombre definitivo de la habilidad, el objeto que la enseña, sus parámetros de daño y coste, y las reglas concretas de los obstáculos quedan POR DEFINIR. La referencia a Pokémon es funcional; Venequia tendrá implementación, presentación y nombres propios.
 
@@ -81,7 +81,7 @@ El objetivo de diseño es que una misma habilidad tenga utilidad tanto en el map
 - Nombre, efecto y función de las habilidades de Jotape, CareLeón y DD01: POR DEFINIR.
 - Nombre definitivo, coste y daño de la habilidad de Yt0: POR DEFINIR.
 - Objeto que enseña la habilidad de Yt0: POR DEFINIR.
-- Bebida que enseña la habilidad de Yt0: se elaborará con 2 o 3 ingredientes; nombre, receta y obtención de ingredientes: POR DEFINIR.
+- Bebida que enseña la habilidad de Yt0: incluirá un ingrediente especial y uno cotidiano; queda por decidir si llevará 2 o 3 ingredientes en total, así como sus identidades, nombre, receta y obtención.
 - Tipos de rocas/obstáculos que Yt0 podrá mover en el capítulo I y reglas para desbloquear rutas: POR DEFINIR.
 - Si la habilidad de Yt0 tendrá niveles o mejoras en capítulos posteriores: IDEA POSIBLE, NO CONFIRMADA.
 - A qué nivel aprenden Jotape y CareLeón sus habilidades: POR DEFINIR.
