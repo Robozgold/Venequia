@@ -209,3 +209,10 @@ El creador considera posible que DD01 pueda conectarse directamente con computad
 ### Personalidad de DD01
 
 El creador confirma que DD01 tendrá una personalidad propia al comunicarse: hará comentarios curiosos e inteligentes y tendrá **humor involuntario** por su forma de interpretar o expresar las cosas como inteligencia artificial/robot. No será un personaje inexpresivo ni solo una herramienta. Su voz específica, frases recurrentes y evolución narrativa quedan POR DEFINIR.
+
+
+### DD01: curiosidad por las relaciones humanas
+
+El creador confirma que DD01 sabe que es un robot y comprende su propia naturaleza. Aun así, está interesado en conocer las relaciones humanas y entender qué significa ser humano. El creador menciona **Astro Boy** como referencia para esta dimensión del personaje. Es una referencia conceptual; DD01 mantendrá una identidad y desarrollo propios de Venequia.
+
+Esta curiosidad puede reflejarse en preguntas y comentarios sobre amistad, afecto, nostalgia, enfado, sacrificio y otras experiencias humanas. La evolución de su comprensión a lo largo de la historia queda POR DEFINIR.
