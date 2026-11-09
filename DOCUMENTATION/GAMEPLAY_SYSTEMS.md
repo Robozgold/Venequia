@@ -174,3 +174,8 @@ El creador ya ha compuesto varias pistas musicales con Suno específicamente par
 #### Consumo de casetes — decisión confirmada
 
 Los casetes son **objetos consumibles de un solo uso**. Cuando DD01 reproduce un casete, este se gasta y se elimina del inventario; no puede volver a utilizarse. Esta regla se aplica a los casetes del capítulo I y debe reflejarse en la descripción del objeto y en la lógica de inventario/combate.
+
+
+#### Límite de uso en combate — decisión confirmada
+
+En cada batalla solo se podrá utilizar **un casete**. Una vez reproducido, no se podrá activar otro casete durante ese mismo combate. El efecto del casete elegido permanece durante toda la batalla. Esta regla evita combinar mejoras y mantiene el sistema sencillo.
