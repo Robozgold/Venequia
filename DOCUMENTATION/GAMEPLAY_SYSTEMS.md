@@ -262,13 +262,13 @@ La incorporación de Yt0 se vincula a un desafío de exploración en el gimnasio
 
 La habilidad ya está definida conceptualmente para tener dos usos: desplazar obstáculos pesados en el mapa y ejecutar un ataque que afecta a todos los enemigos en combate. La secuencia del gimnasio presenta y demuestra primero su utilidad de exploración.
 
-**Pendiente de diseño:** ingredientes, receta, NPC que da la pista, objeto exacto que se mueve, evento de preparación/consumo y momento en que Yt0 aprende o adquiere formalmente su versión de la habilidad. Mantener la implementación sencilla y aprovechar eventos y capacidades nativas de RPG Maker MZ siempre que sea posible.
+**Pendiente de diseño:** ingredientes, receta, NPC que da la pista, objeto exacto que se mueve y evento de preparación/consumo. El momento de aprendizaje de Yt0 ya está decidido: aprende Fuerza de Loco al subir de nivel; queda por definir el nivel concreto. Mantener la implementación sencilla y aprovechar eventos y capacidades nativas de RPG Maker MZ siempre que sea posible.
 
 
 #### Regla definitiva de aprendizaje: JP solo obtiene Fuerza de Loco temporalmente
 
 La bebida de la prueba del gimnasio concede a **JP** Fuerza de Loco de manera **temporal y excepcional**. Uno de los ingredientes de la mezcla no es exactamente el ingrediente habitual requerido para esa bebida, pero puede funcionar como sustituto y producir el efecto. JP utiliza la fuerza obtenida para mover la roca o el balón medicinal del gimnasio; inmediatamente después de superar esa prueba, pierde la habilidad y no vuelve a tenerla durante el juego.
 
-**Yt0 es el único personaje que aprende y conserva Fuerza de Loco como habilidad propia.** Está POR DEFINIR si ya la tiene al unirse a la party o si la aprende al subir de nivel. Se elegirá la opción más sencilla de implementar en RPG Maker MZ.
+**Yt0 es el único personaje que aprende y conserva Fuerza de Loco como habilidad propia.** Se une a la party sin esta habilidad y la aprende al subir de nivel, reflejando su disciplina y progreso mediante el entrenamiento. El nivel exacto de aprendizaje queda POR DEFINIR. Esta progresión puede implementarse mediante el aprendizaje de habilidades por nivel del sistema nativo de RPG Maker MZ.
 
 Por tanto, la bebida de JP sirve para resolver el desafío de reclutamiento, no para otorgarle una habilidad permanente ni para definir por sí sola el aprendizaje de Yt0.
