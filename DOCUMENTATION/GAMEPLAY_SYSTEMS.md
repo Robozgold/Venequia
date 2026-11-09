@@ -247,3 +247,19 @@ Esta curiosidad puede expresarse mediante preguntas, observaciones y conversacio
 #### Evolución gradual de DD01 — dirección narrativa aceptada
 
 El creador considera buena la idea de que, a lo largo de los capítulos, DD01 vaya comprendiendo mejor las emociones y relaciones humanas y desarrolle una sensibilidad propia. Se registra como **dirección narrativa aceptada** para su arco a largo plazo, no como una transformación ya detallada. Los momentos, límites y cambios concretos de esta evolución se definirán al desarrollar la historia de cada capítulo.
+
+
+### Exploración y reclutamiento de Yt0: prueba de Fuerza de Loco
+
+La incorporación de Yt0 se vincula a un desafío de exploración en el gimnasio de Valle Pao:
+
+- Yt0 está concentrado en su rutina de ejercicios y no la interrumpe por nada del mundo.
+- Los NPC transmiten su disciplina y seriedad con el entrenamiento, y algunos introducen la habilidad **Fuerza de Loco**, que permite mover objetos muy pesados.
+- En el gimnasio hay una roca o balón medicinal que nadie puede mover.
+- Un NPC da una pista para obtener la habilidad mediante una bebida especial cuyos ingredientes debe reunir el jugador.
+- Tras preparar y beber la mezcla, JP obtiene Fuerza de Loco y puede mover el objeto pesado del gimnasio.
+- Al presenciarlo, Yt0 interrumpe su entrenamiento, pregunta cómo lo consiguió JP y, motivado por aprender la habilidad, se une a la party.
+
+La habilidad ya está definida conceptualmente para tener dos usos: desplazar obstáculos pesados en el mapa y ejecutar un ataque que afecta a todos los enemigos en combate. La secuencia del gimnasio presenta y demuestra primero su utilidad de exploración.
+
+**Pendiente de diseño:** ingredientes, receta, NPC que da la pista, objeto exacto que se mueve, evento de preparación/consumo y momento en que Yt0 aprende o adquiere formalmente su versión de la habilidad. Mantener la implementación sencilla y aprovechar eventos y capacidades nativas de RPG Maker MZ siempre que sea posible.
