@@ -184,3 +184,8 @@ El creador propone que el tercer casete se consiga explorando una de las casas d
 ### Interacción del tercer casete
 
 El creador confirma que el jugador encontrará el radio portátil dentro de una casa de Valle Pao y, al interactuar con él, conseguirá el casete que contiene. La casa concreta queda POR DEFINIR.
+
+
+### Progresión de curación de DD01
+
+El creador confirma que DD01 comenzará con **curación individual**, capaz de recuperar la salud de un personaje de la party por uso. A medida que suba de nivel, se desbloqueará la opción de aprender una habilidad que cure a **todo el grupo**. El nivel concreto, coste, potencia y momento de aprendizaje quedan POR DEFINIR. Esta nueva progresión deberá armonizarse con la decisión general de que cada personaje tenga una habilidad especial durante el capítulo I; todavía no se ha precisado si la curación grupal se aprenderá dentro de ese capítulo o más adelante.
