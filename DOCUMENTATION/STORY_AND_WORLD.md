@@ -192,3 +192,12 @@ Esta aclaración sustituye cualquier interpretación anterior según la cual JP 
 El creador confirma que dentro de las **Cuevas del Indio** habrá otra roca pesada que bloquea el camino. A diferencia de la prueba del gimnasio, esta roca solo podrá ser movida cuando **Yt0 esté en la party y ya haya aprendido Fuerza de Loco al subir de nivel**.
 
 Este obstáculo demuestra la utilidad posterior de la habilidad propia de Yt0 y permite que el aprendizaje por nivel tenga una recompensa directa en la exploración de la mazmorra. La ubicación exacta de la roca, qué zona o recompensa desbloquea y si es obligatoria para avanzar quedan POR DEFINIR.
+
+
+### Cuevas del Indio: principal zona de encuentros del capítulo I
+
+El creador confirma que las **Cuevas del Indio** serán el escenario donde se concentre la mayor parte de los combates del primer capítulo. En el interior de la mazmorra habitan animales, criaturas o especies extrañas que servirán como enemigos y darán lugar a encuentros durante la exploración.
+
+Antes de entrar en las cuevas puede haber aproximadamente **dos encuentros** con animales salvajes en los alrededores, que funcionarían como primeras experiencias de combate. Sin embargo, la mayoría de las batallas del capítulo se desarrollarán dentro de la mazmorra.
+
+La distribución exacta de enemigos, encuentros, zonas, frecuencia y dificultad queda POR DEFINIR.
