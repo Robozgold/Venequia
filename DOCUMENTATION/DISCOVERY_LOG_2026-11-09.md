@@ -34,11 +34,6 @@ Venequia es un proyecto artístico y también existe la intención de publicarlo
 
 Falta especificar qué elementos concretos de cada referencia son influyentes.
 
-### Riesgo que el creador quiere evitar
-> Que nunca lo publique y me quede en el aparato sin desarrollarlo.
-
-La finalización y publicación son objetivos explícitos. La planificación debe proteger el alcance y favorecer entregas concretas.
-
 ## B. Estado y estructura del desarrollo
 
 ### Estructura por capítulos
@@ -62,8 +57,18 @@ Pendientes identificados:
 
 Esta lista es el primer desglose del trabajo pendiente, no necesariamente la lista exhaustiva. Se revisará contra el proyecto real.
 
-### Estado general previo
-El creador ya había indicado que existen mapas, personajes principales, algunas mecánicas y una introducción.
+## C. Dirección del combate
+
+### Respuesta del creador
+> Lo quiero simple. Batallas estilo Final Fantasy I. Nada nuevo. Lo nuevo serían los skills, items, habilidades.
+
+### Decisión de diseño registrada
+- El combate será clásico y sencillo, con Final Fantasy I como referencia.
+- No se busca inventar un sistema de combate nuevo.
+- La identidad propia estará en el contenido: skills, items y habilidades de los personajes.
+- Se debe evaluar primero el sistema de batalla estándar de RPG Maker MZ y evitar desarrollar un motor personalizado si no hace falta.
+
+La disposición exacta de la batalla, comandos, turnos, estadísticas y reglas todavía deben verificarse y definirse. La referencia no autoriza copiar recursos, textos ni contenido protegido de Final Fantasy.
 
 ## Documentos principales actualizados
 
@@ -74,4 +79,4 @@ El creador ya había indicado que existen mapas, personajes principales, algunas
 
 ## Próximo paso
 
-Inspeccionar una copia segura del proyecto RPG Maker MZ para construir un inventario real del capítulo 1: mapas, eventos, batallas pendientes, NPCs, items, diálogos, plugins y errores. A partir de ese inventario se podrá convertir el 30% pendiente en tareas concretas y verificables.
+Inspeccionar una copia segura del proyecto RPG Maker MZ y documentar el sistema de batalla actual. Después, definir el catálogo de skills, habilidades e items del capítulo 1, respetando la estructura clásica y sencilla elegida por el creador.
