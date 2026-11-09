@@ -189,3 +189,8 @@ El creador confirma que el jugador encontrará el radio portátil dentro de una 
 ### Progresión de curación de DD01
 
 El creador confirma que DD01 comenzará con **curación individual**, capaz de recuperar la salud de un personaje de la party por uso. A medida que suba de nivel, se desbloqueará la opción de aprender una habilidad que cure a **todo el grupo**. El nivel concreto, coste, potencia y momento de aprendizaje quedan POR DEFINIR. Esta nueva progresión deberá armonizarse con la decisión general de que cada personaje tenga una habilidad especial durante el capítulo I; todavía no se ha precisado si la curación grupal se aprenderá dentro de ese capítulo o más adelante.
+
+
+### Posibles capacidades de exploración y conocimiento de DD01
+
+El creador propone explorar utilidades que reflejen que DD01 es un robot/inteligencia artificial con conocimientos más desarrollados que los demás miembros del grupo. Menciona como posibilidades detectar objetos ocultos y poder leer o comprender idiomas, escrituras o textos que otros personajes no entienden. Son **ideas por explorar**, todavía no decisiones definitivas: falta seleccionar capacidades, definir sus límites y decidir cómo se desbloquean y utilizan.
