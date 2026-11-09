@@ -209,3 +209,12 @@ El jugador encontrará el radio portátil dentro de una casa de Valle Pao. Al in
 - A medida que DD01 suba de nivel, se desbloqueará la opción de que aprenda una habilidad de **curación para todo el grupo**.
 - El nivel exacto en que se ofrecerá/aprenderá la curación grupal, su coste, potencia y condiciones quedan POR DEFINIR.
 - Esta progresión amplía el rol de apoyo de DD01 de forma gradual. Debe coordinarse con la regla general de una habilidad especial por personaje durante el capítulo I; el alcance temporal y el momento de aprendizaje de la curación grupal aún necesitan concretarse.
+
+
+#### Posibles capacidades de exploración y conocimiento de DD01 — ideas por explorar
+
+El creador plantea que, por ser una inteligencia artificial/robot con capacidades de conocimiento superiores, DD01 podría aportar utilidades de exploración y comprensión que los demás integrantes no tienen. Entre las posibilidades mencionadas:
+- Detectar objetos ocultos o elementos de interés en el entorno.
+- Interpretar, traducir o leer idiomas, escrituras, códigos o textos que otros miembros de la party no entienden.
+
+Estas capacidades son **ideas propuestas para explorar**, no habilidades aprobadas ni sistemas cerrados. Falta decidir cuáles tendrá DD01 realmente, cómo se activan, qué límites tienen y si se desbloquean por historia, nivel u objetos. Su función debe enriquecer la exploración y resolver situaciones concretas sin quitar protagonismo a los demás personajes.
