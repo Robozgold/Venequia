@@ -59,7 +59,7 @@ Esta lista es el primer desglose del trabajo pendiente, no necesariamente la lis
 
 ## C. Dirección del combate
 
-### Respuesta del creador
+### Respuesta del creador sobre el estilo
 > Lo quiero simple. Batallas estilo Final Fantasy I. Nada nuevo. Lo nuevo serían los skills, items, habilidades.
 
 ### Decisión de diseño registrada
@@ -67,6 +67,18 @@ Esta lista es el primer desglose del trabajo pendiente, no necesariamente la lis
 - No se busca inventar un sistema de combate nuevo.
 - La identidad propia estará en el contenido: skills, items y habilidades de los personajes.
 - Se debe evaluar primero el sistema de batalla estándar de RPG Maker MZ y evitar desarrollar un motor personalizado si no hace falta.
+
+### Habilidades personalizadas por personaje
+
+> Me gustaria que cada uno tenga sus habilidades personalizadas. distintas entre ellas aunque pueden haber habilidades que sean similares.
+
+Decisión confirmada:
+- Cada personaje tendrá un repertorio de habilidades personalizado y diferenciado.
+- Puede haber habilidades similares entre personajes, pero no tienen que ser idénticas.
+- La diferenciación podrá estar en efectos, potencia, coste, condiciones o utilidad táctica.
+- La intención es dar identidad y una función reconocible a cada integrante, manteniendo el combate simple.
+
+Quedan por definir el catálogo concreto, el aprendizaje/desbloqueo y el balance de las habilidades.
 
 La disposición exacta de la batalla, comandos, turnos, estadísticas y reglas todavía deben verificarse y definirse. La referencia no autoriza copiar recursos, textos ni contenido protegido de Final Fantasy.
 
@@ -79,4 +91,4 @@ La disposición exacta de la batalla, comandos, turnos, estadísticas y reglas t
 
 ## Próximo paso
 
-Inspeccionar una copia segura del proyecto RPG Maker MZ y documentar el sistema de batalla actual. Después, definir el catálogo de skills, habilidades e items del capítulo 1, respetando la estructura clásica y sencilla elegida por el creador.
+Definir la identidad de combate de cada personaje y, más adelante, el catálogo de skills, habilidades e items del capítulo 1. Antes de ajustar el balance, inspeccionar una copia segura del proyecto RPG Maker MZ y documentar el sistema de batalla actual.
