@@ -230,3 +230,8 @@ El creador confirma que quiere que ciertas capacidades de exploración y conocim
 La posibilidad de que DD01 se conecte directamente con computadoras, terminales u otras máquinas se considera una capacidad futura, pero el creador señala que **quizá no sea necesaria en el capítulo I** para mantener el alcance sencillo. Por ahora queda fuera de los requisitos del primer capítulo y se conserva como posibilidad para capítulos posteriores, sujeta a necesidades narrativas y de diseño.
 
 Para el capítulo I, las capacidades de exploración que se priorizarán para evaluar son la detección de objetos ocultos y la lectura/interpretación de textos que otros personajes no comprenden. Su implementación concreta aún debe definirse.
+
+
+#### Personalidad y voz de DD01 — confirmación del creador
+
+DD01 tendrá una personalidad reconocible al comunicarse. Su condición de inteligencia artificial/robot se reflejará en comentarios **curiosos e inteligentes**, además de **humor involuntario**. No será un robot inexpresivo ni un simple dispositivo funcional: sus observaciones, interpretaciones literales y comentarios podrán aportar humor y carácter a los diálogos del grupo. Los rasgos concretos de su voz, expresiones recurrentes y evolución durante la historia quedan POR DEFINIR.
