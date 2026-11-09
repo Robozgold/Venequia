@@ -179,3 +179,8 @@ El creador confirma que el DJ del Valle Pao tiene un compañero llamado **Rashid
 ### Tercer casete: radio portátil en una casa de Valle Pao
 
 El creador propone que el tercer casete se consiga explorando una de las casas de Valle Pao. Podría estar dentro de un **radio portátil/reproductor portátil de casetes**. La casa exacta y cómo se recoge el objeto quedan POR DEFINIR.
+
+
+### Interacción del tercer casete
+
+El creador confirma que el jugador encontrará el radio portátil dentro de una casa de Valle Pao y, al interactuar con él, conseguirá el casete que contiene. La casa concreta queda POR DEFINIR.
