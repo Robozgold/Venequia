@@ -63,3 +63,20 @@ Se han mencionado **Pase por un día**, **Huevos Chimbos** y **Guarapita Shots**
 2. Diferenciar canon, ideas descartadas y propuestas.
 3. Mantener un glosario de nombres propios y venezolanismos.
 4. Registrar en qué capítulo, mapa, evento y diálogo aparece cada dato importante.
+
+
+## Inicio del capítulo I: misión de las Cuevas del Indio
+
+**Secuencia inicial confirmada por el creador:**
+
+1. El juego comienza con Jotape como personaje controlado por el jugador. Jotape es el líder de la travesía.
+2. La primera misión obligatoria consiste en hablar con el **Prof. Bichito**, quien está buscando a JP.
+3. El profesor explica que envió a **DD01** a las **Cuevas del Indio**, una especie de mazmorra, para analizar determinados minerales.
+4. El Prof. Bichito ha perdido la señal o no logra localizar a DD01. Sospecha que el robot pudo haber perdido la conexión y le pide a JP que vaya a las cuevas a buscarlo.
+5. La misión parece sencilla al principio, pero se complica al llegar a la entrada de las cuevas.
+6. En las afueras hay un **guardabosques** que no permite el paso. Para entrar, exige que el jugador lleve una **linterna** y tenga al menos **dos compañeros**.
+7. Este requisito obliga al jugador a conseguir a **Cara de León** y a **Yt0** antes de poder acceder a la mazmorra y continuar la misión de encontrar a DD01.
+
+**Función narrativa y jugable:** la búsqueda de DD01 es el objetivo principal que pone en marcha la aventura. El bloqueo de la entrada establece un objetivo intermedio claro y motiva la incorporación de Cara de León y Yt0 al equipo. La linterna es un requisito confirmado; su obtención y la forma concreta de conseguirla aún están POR DEFINIR.
+
+**Pendiente de confirmar:** la grafía definitiva del nombre «Cara de León» frente a la forma «CareLeón» usada en otros documentos; la ubicación y obtención de la linterna; las condiciones concretas para reclutar a cada compañero; y los acontecimientos dentro de las Cuevas del Indio.
