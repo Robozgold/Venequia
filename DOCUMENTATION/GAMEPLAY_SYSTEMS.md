@@ -300,3 +300,13 @@ El creador confirma que los enemigos de las Cuevas del Indio serán **visibles d
 - No se utilizarán encuentros aleatorios al caminar como sistema principal de la mazmorra.
 
 La distancia o condición exacta que activa el encuentro, el comportamiento de persecución de los enemigos y si el jugador puede evitar algunos encuentros mediante rutas alternativas quedan POR DEFINIR. La referencia a Pokémon es funcional; la presentación y comportamiento concretos serán propios de Venequia.
+
+
+#### Comportamientos de enemigos visibles
+
+El creador confirma que los enemigos visibles de las Cuevas del Indio podrán tener distintos comportamientos:
+
+- **Enemigos móviles/perseguidores:** algunas criaturas detectarán a JP y se acercarán a él para iniciar el combate al alcanzarlo o entrar en su rango de contacto.
+- **Enemigos bloqueadores:** otras criaturas permanecerán en puntos estratégicos, como pasillos o caminos estrechos, impidiendo el avance. El jugador deberá derrotarlas para despejar el paso. Una vez derrotadas, desaparecerán del mapa y dejarán libre esa ruta.
+
+Esta variedad permite que algunos encuentros dependan del movimiento y detección del jugador, mientras que otros funcionen como bloqueos de progresión dentro de la mazmorra. Los rangos de detección, velocidades, condiciones de activación y persistencia del enemigo derrotado quedan POR DEFINIR.
