@@ -218,3 +218,8 @@ El creador plantea que, por ser una inteligencia artificial/robot con capacidade
 - Interpretar, traducir o leer idiomas, escrituras, códigos o textos que otros miembros de la party no entienden.
 
 Estas capacidades son **ideas propuestas para explorar**, no habilidades aprobadas ni sistemas cerrados. Falta decidir cuáles tendrá DD01 realmente, cómo se activan, qué límites tienen y si se desbloquean por historia, nivel u objetos. Su función debe enriquecer la exploración y resolver situaciones concretas sin quitar protagonismo a los demás personajes.
+
+
+#### Exclusividad de las capacidades de exploración de DD01 — dirección confirmada
+
+El creador confirma que quiere que ciertas capacidades de exploración y conocimiento sean **exclusivas de DD01**. Esto permitirá crear lugares, secretos, textos, mecanismos o dispositivos que solo puedan descubrirse, interpretarse o utilizarse cuando DD01 esté en la party. La idea de que DD01 deba estar presente para acceder a estos contenidos queda confirmada como dirección de diseño; cuáles capacidades concretas se implementarán y sus límites siguen POR DEFINIR.
