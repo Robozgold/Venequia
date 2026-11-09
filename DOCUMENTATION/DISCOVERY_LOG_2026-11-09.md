@@ -154,3 +154,8 @@ Estas pistas son música creada para esos NPCs y forman parte de la identidad mu
 El creador confirma que durante el primer capítulo el jugador conseguirá aproximadamente **3 casetes**. Se podrán obtener antes de que DD01 se una a la party, pero no se podrán reproducir ni utilizar hasta que DD01 se incorpore al grupo. A partir de ese momento, como único personaje capaz de reproducirlos, DD01 permitirá utilizar los casetes que el jugador haya conseguido.
 
 La cantidad es aproximada (unos tres) para el capítulo I. La ubicación y forma de conseguir cada casete, así como la canción y el efecto de atributos asociados a cada uno, quedan POR DEFINIR.
+
+
+### Consumo de los casetes
+
+El creador confirma que los casetes son **items de un solo uso**: al reproducir uno con DD01, se consume y desaparece del inventario. No se puede volver a utilizar. La regla se incorpora al diseño del sistema musical de DD01.
