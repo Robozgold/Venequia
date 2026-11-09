@@ -10,14 +10,32 @@ Cada sistema debe documentar propósito, reglas, datos, interfaz, dependencias, 
 - Secretos, recompensas y progresión: POR CONFIRMAR.
 
 ## Combate
-- Modelo: por turnos, según descripción previa.
+- Modelo: combate por turnos descrito previamente para el proyecto; verificar implementación actual.
+- Estado del capítulo 1: el creador indica que todavía hay que añadir batallas.
+- Encuentros: identificar qué batallas son obligatorias, opcionales, de jefe o tutoriales.
 - Participantes y tamaño del grupo: POR CONFIRMAR.
 - Orden de turnos: POR CONFIRMAR.
 - Recursos (vida, energía, etc.): POR CONFIRMAR.
 - Habilidades, estados y elementos: POR CONFIRMAR.
+- Enemigos y patrones: POR CONFIRMAR.
 - Condiciones de victoria/derrota: POR CONFIRMAR.
+- Recompensas y drops: POR CONFIRMAR.
 - Encuentros aleatorios o visibles: POR CONFIRMAR.
 - Curva de dificultad y balance: POR CONFIRMAR.
+
+## NPCs y diálogos
+- El creador identifica la personalización de NPCs como trabajo pendiente del capítulo 1.
+- Apariencia, nombre, ubicación, función, rutina y eventos asociados: documentar NPC por NPC.
+- Diálogos: completar y revisar conversaciones según lugar, momento del capítulo y estado de las misiones.
+- Decisiones y consecuencias: POR CONFIRMAR.
+- Evitar diálogos genéricos; mantener voz, humor y referencias coherentes con el mundo.
+
+## Items e inventario
+- El creador identifica completar los items como trabajo pendiente del capítulo 1.
+- Inventario de objetos: POR CONFIRMAR.
+- Función, descripción, precio, disponibilidad y balance de cada objeto: POR CONFIRMAR.
+- Consumibles, equipo, objetos de misión y objetos clave: clasificar durante la auditoría.
+- Economía y tiendas: POR CONFIRMAR.
 
 ## Progresión
 - Niveles y experiencia: POR CONFIRMAR.
