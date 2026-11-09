@@ -199,3 +199,8 @@ El creador propone explorar utilidades que reflejen que DD01 es un robot/intelig
 ### Exclusividad de DD01 en la exploración
 
 El creador confirma que quiere que algunas capacidades de exploración y conocimiento sean exclusivas de DD01. Por tanto, habrá lugares, secretos, textos, mecanismos o dispositivos que solo podrán descubrirse, comprenderse o utilizarse cuando DD01 forme parte de la party. Las capacidades concretas y sus límites siguen POR DEFINIR.
+
+
+### Conexión de DD01 con computadoras y máquinas: no prioritaria en capítulo I
+
+El creador considera posible que DD01 pueda conectarse directamente con computadoras y máquinas, pero señala que quizá no sea necesario para el primer capítulo, con el fin de mantenerlo sencillo. Se conserva como posibilidad futura y no como requisito de capítulo I. Para el primer capítulo se priorizará evaluar la detección de objetos ocultos y la lectura o interpretación de textos que los demás personajes no entiendan; la implementación concreta sigue pendiente.
