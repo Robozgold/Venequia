@@ -62,7 +62,7 @@ El creador también propone un sistema de **casetes musicales**:
 - Al reproducir un casete durante una batalla, cambiará la música de combate.
 - La música otorgará mejoras de atributos al grupo, por ejemplo, ataque o defensa.
 
-La idea une la identidad de DD01 como robot con una mecánica de apoyo grupal basada en música. Quedan POR DEFINIR: si los casetes son consumibles o reutilizables, cuánto duran sus efectos, qué atributos puede mejorar cada uno, si los efectos se acumulan o se sustituyen, cómo se seleccionan y activan en batalla, y cómo se obtienen los casetes. La progresión y cantidad de habilidades de combate que DD01 aprenderá en cada capítulo también quedan por concretar.
+La idea une la identidad de DD01 como robot con una mecánica de apoyo grupal basada en música. El creador deja la duración a criterio de la implementación más sencilla. Como opción inicial de diseño, se propone que el efecto dure **toda la batalla** y termine al finalizar el combate, evitando tener que contar turnos. Esta duración queda como preferencia práctica, sujeta a comprobar la implementación en RPG Maker MZ. También quedan POR DEFINIR si los casetes son consumibles o reutilizables, qué atributos puede mejorar cada uno, si los efectos se acumulan o se sustituyen, cómo se seleccionan y activan en batalla, y cómo se obtienen los casetes. La progresión y cantidad de habilidades de combate que DD01 aprenderá en cada capítulo también quedan por concretar.
 
 #### Habilidad especial de Yt0 — concepto confirmado
 
@@ -92,7 +92,7 @@ El objetivo de diseño es que una misma habilidad tenga utilidad tanto en el map
 - Recursos (vida, energía, etc.): POR CONFIRMAR.
 - Nombre y efecto de las habilidades de Jotape y CareLeón: POR DEFINIR.
 - Habilidad inicial de apoyo/curación de DD01 y su progresión de habilidades de combate: concepto definido, detalles POR DEFINIR.
-- Sistema de casetes musicales de DD01: casetes encontrados durante la aventura; solo DD01 puede reproducirlos; al activarlos cambia la música de batalla y mejora atributos del grupo (por ejemplo, ataque o defensa). Duración, consumo, selección, efectos concretos y reglas de acumulación: POR DEFINIR.
+- Sistema de casetes musicales de DD01: casetes encontrados durante la aventura; solo DD01 puede reproducirlos; al activarlos cambia la música de batalla y mejora atributos del grupo (por ejemplo, ataque o defensa). Duración: preferencia práctica por mantener el efecto durante toda la batalla y retirarlo al terminar, si resulta sencillo de implementar; sujeto a comprobación técnica. Consumo, selección, efectos concretos y reglas de acumulación: POR DEFINIR.
 - Nombre definitivo, coste y daño de la habilidad de Yt0: POR DEFINIR.
 - Objeto que enseña la habilidad de Yt0: POR DEFINIR.
 - Bebida que enseña la habilidad de Yt0: incluirá un ingrediente especial y uno cotidiano. El especial podrá encontrarse explorando o conseguirse de un NPC a cambio de otro objeto; la vía concreta (o combinación de vías) queda por decidir. El ingrediente cotidiano podrá comprarse en una tienda, recogerse del escenario o conseguirse de un NPC. Número total de ingredientes (2 o 3), identidades, nombre y receta: POR DEFINIR.
