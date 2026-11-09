@@ -333,3 +333,10 @@ Esta aclaración precisa y reemplaza la ambigüedad anterior sobre si JP aprend�
 El creador confirma que dentro de las **Cuevas del Indio** habrá otra roca que bloquea el paso. Una vez que Yt0 forme parte del grupo y haya aprendido **Fuerza de Loco** al subir de nivel, podrá moverla. Este segundo obstáculo demuestra la utilidad de la habilidad en la mazmorra y conecta la progresión de personaje con la exploración.
 
 Queda por definir la ubicación exacta de la roca, qué camino o recompensa desbloquea y si el obstáculo es obligatorio para completar la cueva.
+
+
+### Cuevas del Indio como zona principal de combate del capítulo I
+
+El creador confirma que la mayor parte de las batallas del primer capítulo tendrá lugar dentro de las **Cuevas del Indio**. La mazmorra estará habitada por animales y especies o criaturas raras que actuarán como enemigos. Antes de entrar puede haber alrededor de **dos encuentros con animales salvajes**, pero serán solo una pequeña introducción: la mayoría de los combates se concentrarán dentro de las cuevas.
+
+Quedan por definir las especies concretas, su distribución, estadísticas, recompensas y dificultad.
