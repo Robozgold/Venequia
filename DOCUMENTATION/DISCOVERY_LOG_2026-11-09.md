@@ -255,3 +255,10 @@ El creador identifica al personaje masculino dueño de la tanga rosada como **Ti
 Queda establecido que Tiburcio es estilista-peluquero, soñaba con abrir una peluquería y convertirla en franquicia, sobrevivió a una explosión que lo sepultó bajo escombros gracias a que el Profesor Bichito² incorporó las rocas a su cuerpo, y ahora combate a quienes intentan causar el caos en Ciudad Caótica con su armadura rocosa, tangas fucsia y zarcillos.
 
 **Pendiente:** cómo JP consigue la tanga; dónde y cómo aparece Tiburcio durante el capítulo I; y aclarar si la forma «Profesor Bichito²» es intencional.
+
+
+### Aparición de Tiburcio Rocadulce en el capítulo I
+
+El creador confirma que **Tiburcio aparece físicamente en el capítulo I como NPC antes de su transformación rocosa**. El NPC ya está creado por el propio creador. Por tanto, la apariencia de armadura rocosa descrita en su biografía corresponde a una etapa posterior de su historia, no a su aspecto durante esa aparición inicial.
+
+Quedan por definir su ubicación y momento exactos dentro del capítulo I, cómo JP consigue la tanga fucsia y qué acontecimientos conducen a la transformación.
