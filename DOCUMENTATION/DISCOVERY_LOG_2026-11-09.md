@@ -96,6 +96,12 @@ Decisión confirmada:
 
 Confirmación del creador: los cuatro personajes principales de la party del capítulo I son **Jotape, CareLeón, Yt0 y DD01**.
 
+### Habilidad inicial de DD01
+
+> DD01
+
+Decisión confirmada: **DD01 ya tendrá su habilidad especial cuando se una a la party**. Por tanto, los otros tres personajes —Jotape, CareLeón y Yt0— se repartirán los dos desbloqueos por nivel y el desbloqueo mediante objeto. La asignación entre esos tres sigue pendiente.
+
 La disposición exacta de la batalla, comandos, turnos, estadísticas y reglas todavía deben verificarse y definirse. La referencia no autoriza copiar recursos, textos ni contenido protegido de Final Fantasy.
 
 ## Documentos principales actualizados
@@ -107,4 +113,4 @@ La disposición exacta de la batalla, comandos, turnos, estadísticas y reglas t
 
 ## Próximo paso
 
-Asignar los cuatro métodos de aprendizaje a cada personaje y definir sus habilidades concretas. Antes de ajustar el balance, inspeccionar una copia segura del proyecto RPG Maker MZ y documentar el sistema de batalla actual.
+Asignar a Jotape, CareLeón y Yt0 los dos métodos restantes (subida de nivel y objeto), y definir las cuatro habilidades concretas. Antes de ajustar el balance, inspeccionar una copia segura del proyecto RPG Maker MZ y documentar el sistema de batalla actual.
