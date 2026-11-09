@@ -52,6 +52,18 @@ El creador ha definido una progresión inicial deliberadamente limitada:
 
 La intención es introducir variedad y progresión sin abrumar al jugador ni complicar el balance temprano.
 
+#### DD01 — identidad y sistema musical — concepto confirmado
+
+DD01 es un robot creado por el **Prof. Bichito** como robot de exploración. No fue diseñado originalmente para combatir. Su identidad inicial en la party está orientada al apoyo y la **curación**; a medida que avance el juego, irá aprendiendo habilidades de batalla.
+
+El creador también propone un sistema de **casetes musicales**:
+- El jugador podrá encontrar casetes durante la aventura.
+- **Únicamente DD01** podrá reproducirlos.
+- Al reproducir un casete durante una batalla, cambiará la música de combate.
+- La música otorgará mejoras de atributos al grupo, por ejemplo, ataque o defensa.
+
+La idea une la identidad de DD01 como robot con una mecánica de apoyo grupal basada en música. Quedan POR DEFINIR: si los casetes son consumibles o reutilizables, cuánto duran sus efectos, qué atributos puede mejorar cada uno, si los efectos se acumulan o se sustituyen, cómo se seleccionan y activan en batalla, y cómo se obtienen los casetes. La progresión y cantidad de habilidades de combate que DD01 aprenderá en cada capítulo también quedan por concretar.
+
 #### Habilidad especial de Yt0 — concepto confirmado
 
 Yt0 es un personaje que cree firmemente en el ejercicio físico y tiene como meta alcanzar una gran fortaleza corporal. Su habilidad especial debe expresar esa identidad y tendrá dos aplicaciones:
@@ -78,7 +90,9 @@ El objetivo de diseño es que una misma habilidad tenga utilidad tanto en el map
 - Comandos disponibles en batalla: POR CONFIRMAR.
 - Tamaño del grupo y número de enemigos: POR CONFIRMAR.
 - Recursos (vida, energía, etc.): POR CONFIRMAR.
-- Nombre, efecto y función de las habilidades de Jotape, CareLeón y DD01: POR DEFINIR.
+- Nombre y efecto de las habilidades de Jotape y CareLeón: POR DEFINIR.
+- Habilidad inicial de apoyo/curación de DD01 y su progresión de habilidades de combate: concepto definido, detalles POR DEFINIR.
+- Sistema de casetes musicales de DD01: casetes encontrados durante la aventura; solo DD01 puede reproducirlos; al activarlos cambia la música de batalla y mejora atributos del grupo (por ejemplo, ataque o defensa). Duración, consumo, selección, efectos concretos y reglas de acumulación: POR DEFINIR.
 - Nombre definitivo, coste y daño de la habilidad de Yt0: POR DEFINIR.
 - Objeto que enseña la habilidad de Yt0: POR DEFINIR.
 - Bebida que enseña la habilidad de Yt0: incluirá un ingrediente especial y uno cotidiano. El especial podrá encontrarse explorando o conseguirse de un NPC a cambio de otro objeto; la vía concreta (o combinación de vías) queda por decidir. El ingrediente cotidiano podrá comprarse en una tienda, recogerse del escenario o conseguirse de un NPC. Número total de ingredientes (2 o 3), identidades, nombre y receta: POR DEFINIR.
