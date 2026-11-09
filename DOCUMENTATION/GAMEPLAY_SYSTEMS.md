@@ -52,6 +52,16 @@ El creador ha definido una progresión inicial deliberadamente limitada:
 
 La intención es introducir variedad y progresión sin abrumar al jugador ni complicar el balance temprano.
 
+#### Habilidad especial de Yt0 — concepto confirmado
+
+Yt0 es un personaje que cree firmemente en el ejercicio físico y tiene como meta alcanzar una gran fortaleza corporal. Su habilidad especial debe expresar esa identidad y tendrá dos aplicaciones:
+
+- **Exploración:** Yt0 podrá mover rocas u otros objetos pesados que bloqueen caminos, abriendo el acceso a zonas que antes no estaban disponibles. La referencia funcional es la habilidad Strength de Pokémon: mover obstáculos del escenario para desbloquear rutas.
+- **Combate:** Yt0 ejecutará un golpe de fuerza extrema que atacará a **todos los enemigos** del grupo contrario.
+- **Desbloqueo:** la habilidad se aprenderá mediante un objeto especial, coherente con la progresión ya definida para Yt0.
+
+El objetivo de diseño es que una misma habilidad tenga utilidad tanto en el mapa como en batalla, conectando exploración y combate. El nombre definitivo de la habilidad, el objeto que la enseña, sus parámetros de daño, coste y las reglas concretas de los obstáculos quedan POR DEFINIR. La referencia a Pokémon es funcional; Venequia tendrá implementación, presentación y nombres propios.
+
 ### Principios de implementación
 
 - Mantener una estructura clásica de combate RPG por turnos.
@@ -67,7 +77,10 @@ La intención es introducir variedad y progresión sin abrumar al jugador ni com
 - Comandos disponibles en batalla: POR CONFIRMAR.
 - Tamaño del grupo y número de enemigos: POR CONFIRMAR.
 - Recursos (vida, energía, etc.): POR CONFIRMAR.
-- Nombre, efecto y función de la habilidad de cada personaje: POR DEFINIR.
+- Nombre, efecto y función de las habilidades de Jotape, CareLeón y DD01: POR DEFINIR.
+- Nombre definitivo, coste y daño de la habilidad de Yt0: POR DEFINIR.
+- Objeto que enseña la habilidad de Yt0: POR DEFINIR.
+- Tipos de rocas/obstáculos que Yt0 podrá mover y reglas para desbloquear rutas: POR DEFINIR.
 - A qué nivel aprenden Jotape y CareLeón sus habilidades: POR DEFINIR.
 - Qué objeto permite a Yt0 aprender su habilidad: POR DEFINIR.
 - Qué habilidades similares pueden compartir personajes y cómo se diferencian: POR DEFINIR.
