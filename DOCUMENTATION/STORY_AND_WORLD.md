@@ -125,3 +125,51 @@ El creador explica que **reclutar a Cara de León requiere que JP aprenda a silb
 
 
 **Reclutamiento de Cara de León:** una vez que JP consigue el Caramelo de Chimó y Yerbabuena y silba frente a la casa del árbol, **Cara de León sale automáticamente**. No hay otro obstáculo ni una interacción adicional confirmada después del silbido.
+
+
+### Trasfondo del grupo: los campeones deportivos del Valle Pao
+
+El creador confirma que **Jotape, Cara de León, Yt0 y DD01 ya son amigos antes del comienzo del juego**. El día anterior al inicio, durante la celebración de los «sopotocientos años» del Valle Pao, se celebró una serie de competiciones deportivas en las que participaron los campeones de las distintas disciplinas, conocidos como **Los Fulton**. JP y sus amigos decidieron competir y consiguieron ganar, por lo que al comenzar la historia son los vigentes campeones de esa competición.
+
+Este acontecimiento **no se juega directamente**: forma parte del pasado inmediato del grupo y se comunica de manera indirecta al jugador mediante elementos del escenario y comentarios de los NPC.
+
+#### Cómo se entera el jugador
+
+- El juego comienza con JP despertando en su cama/habitación.
+- En la habitación puede haber una fotografía, placa, trofeo u otro recuerdo que indique que JP y su grupo son los campeones actuales de los juegos deportivos del Valle Pao. El objeto concreto todavía está POR DEFINIR.
+- Al salir de casa y hablar con determinados NPC, algunos felicitan a JP por las habilidades que él y sus amigos demostraron en el torneo.
+- Estos comentarios y elementos ambientales permiten que el jugador reconstruya lo sucedido sin necesidad de jugar el torneo.
+
+#### Robotina y la escena inicial
+
+**Robotina** es un robot creado por el Prof. Bichito para atender la casa y cuidar de JP. Cumple el papel de señora de servicio/nana. Es quien despierta a JP al comienzo del juego y le informa que debe ir a ver al Prof. Bichito, quien lo está buscando porque necesita hablar con él.
+
+La escena inicial establece así la rutina doméstica de JP, presenta a Robotina y conduce al jugador hacia el encargo del profesor que pone en marcha la aventura.
+
+#### Continuidad de la amistad
+
+Cuando JP encuentra y recluta a Cara de León y a Yt0, el jugador debe entender que no está conociendo a nuevos compañeros: está reuniéndose con amigos con quienes ya compartió la competición deportiva del día anterior. La misma relación previa se aplica a DD01, aunque el robot se encuentre en las Cuevas del Indio cuando comienza la misión.
+
+Los detalles de las disciplinas deportivas, el desarrollo de la competición, la identidad y composición de Los Fulton, el objeto conmemorativo de la habitación y los diálogos concretos de los NPC quedan POR DEFINIR.
+
+
+### Reclutamiento de Yt0: gimnasio, Fuerza de Loco y prueba de fuerza
+
+El creador establece que Yt0 se encuentra en un **gimnasio o zona de entrenamiento** de Valle Pao. Como aficionado y creyente del ejercicio físico, está muy concentrado en su rutina y no la interrumpe por nada del mundo.
+
+La secuencia de reclutamiento se desarrolla así:
+
+1. JP llega al gimnasio y encuentra a Yt0 entrenando. Yt0 no interrumpe su rutina para atenderlo.
+2. Algunos NPC del gimnasio comentan que Yt0 es extremadamente disciplinado, que está muy enfocado en sus ejercicios y que se toma el entrenamiento muy en serio.
+3. Otros NPC mencionan una habilidad llamada **«Fuerza de Loco»**, que permite mover objetos muy pesados.
+4. En el gimnasio hay una roca o balón medicinal de peso extraordinario que nadie consigue mover. El objeto funciona como demostración y desafío ambiental: quizá solo alguien con Fuerza de Loco pueda desplazarlo.
+5. Un NPC ofrece una pista sobre cómo conseguir la habilidad: mediante una bebida especial que otorga Fuerza de Loco. Para prepararla, JP debe reunir los ingredientes necesarios.
+6. JP consigue los ingredientes, prepara la bebida y se la toma. Así obtiene la habilidad Fuerza de Loco.
+7. JP utiliza la habilidad para mover la roca o el balón medicinal del gimnasio.
+8. Al ver la demostración, Yt0 interrumpe su entrenamiento y pregunta a JP cómo consiguió aprender esa habilidad. Su interés por obtenerla lo lleva a unirse al grupo.
+
+La escena funciona como prueba de que JP ha adquirido una capacidad que Yt0 respeta y desea aprender. Su incorporación surge de su propia motivación por la fuerza física y el entrenamiento.
+
+**Relación con el sistema de habilidades:** Fuerza de Loco es la habilidad de Yt0 que tiene aplicaciones tanto en exploración —mover obstáculos pesados— como en combate —un ataque de fuerza contra todos los enemigos—. La bebida y la receta son el método de desbloqueo previsto para la habilidad asociada a Yt0; queda por concretar si JP aprende primero la habilidad para superar la prueba y después Yt0 se une, o si el objeto representa también el aprendizaje que Yt0 desea replicar.
+
+**Pendiente de definir:** ubicación y nombre definitivo del gimnasio; NPC que da la pista; ingredientes exactos y número final (dos o tres); nombre y preparación de la bebida; si el objeto del gimnasio es una roca o un balón medicinal; diálogo de Yt0 al ver la demostración; y si Yt0 aprende la habilidad inmediatamente al unirse o más adelante. La grafía y presentación definitivas de «Fuerza de Loco» deben conservarse como las indique el creador.
