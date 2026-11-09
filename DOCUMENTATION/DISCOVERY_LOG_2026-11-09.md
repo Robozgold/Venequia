@@ -169,3 +169,8 @@ El creador confirma que se podrá utilizar **un solo casete por batalla**. Despu
 ### Patinetada, PUNK T.A.M.P. y obtención de un casete
 
 El creador explica que en Valle Pao se celebra una **Patinetada** para conmemorar los «sopotocientos años» del lugar. Una de las atracciones es la actuación de la banda **PUNK T.A.M.P.** («Tírame algo menos piedra»). Durante el evento hay una tienda que vende mercancía de la banda y allí el jugador podrá conseguir uno de los casetes musicales. Queda por concretar si se lo regalan, si se obtiene al comprar mercancía o mediante otra interacción con la tienda.
+
+
+### Rashid y segundo casete
+
+El creador confirma que el DJ del Valle Pao tiene un compañero llamado **Rashid**, quien podrá obsequiar al jugador uno de los casetes musicales. La condición o interacción exacta para recibirlo todavía queda POR DEFINIR.
