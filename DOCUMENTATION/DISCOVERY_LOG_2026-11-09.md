@@ -270,19 +270,19 @@ El creador explica la cadena de misiones que permite reclutar a Cara de León y 
 
 - Para reclutar a **Cara de León**, JP tiene que aprender a silbar. Cara de León vive en una casa del árbol. JP toca el timbre, pero no recibe respuesta. Otro NPC le explica que Cara de León nunca escucha el timbre y que la única manera de llamar su atención es silbando.
 - JP no sabe silbar. Mientras explora Valle Pao, conoce a **Mateo Rocadulce**, un hombre que está silbando en las afueras de su casa. Mateo le dice que hay que «silbarle a la vida».
-- Mateo posee un **caramelo que estimula el silbido**, incluso si quien lo consume no sabe silbar. Está dispuesto a dárselo a JP si lo ayuda con su hijo **Tiburcio**, que lleva meses encerrado en el clóset y no se atreve a salir.
+- Mateo posee un ****Caramelo de Chimó y Yerbabuena** (estimula el silbido)**, incluso si quien lo consume no sabe silbar. Está dispuesto a dárselo a JP si lo ayuda con su hijo **Tiburcio**, que lleva meses encerrado en el clóset y no se atreve a salir.
 - Dentro de la casa, JP encuentra una puerta detrás de la cual está Tiburcio. Tiburcio no está dispuesto a salir.
 - Explorando Valle Pao, JP encuentra un **recorte de un anuncio de periódico** que solicita un peluquero en Ciudad Caótica para «lavar cabezas».
 - JP entrega el recorte a Tiburcio. Ese anuncio le da el impulso necesario para decidir salir del clóset.
 - Tiburcio deja Valle Pao y se marcha rumbo a **Ciudad Caótica** para perseguir su sueño de trabajar como peluquero y lavar cabezas.
-- Después de que Tiburcio se marcha, JP sale de la casa y habla con Mateo. Mateo le agradece haber ayudado a que su hijo finalmente salga del clóset y, como muestra de agradecimiento y en cumplimiento de su promesa, le entrega el caramelo que estimula el silbido.
+- Después de que Tiburcio se marcha, JP sale de la casa y habla con Mateo. Mateo le agradece haber ayudado a que su hijo finalmente salga del clóset y, como muestra de agradecimiento y en cumplimiento de su promesa, le entrega el **Caramelo de Chimó y Yerbabuena**, que estimula el silbido.
 - JP puede revisar la habitación de Tiburcio y encuentra la **tanga de color rosado/fucsia entre la ropa sucia**. Luego se la lleva a Bichito Birriondo.
 - Birriondo cree que la prenda pertenece a una de las mujeres de Valle Pao. En realidad, pertenece a Tiburcio, y esa confusión es el remate cómico del intercambio por la linterna.
 
-**Relación con la progresión:** el caramelo permite a JP silbar y llamar a Cara de León desde la casa del árbol, facilitando su reclutamiento. La tanga se entrega a Bichito Birriondo a cambio de la linterna que exige el guardabosques para entrar en las Cuevas del Indio. Así, esta cadena secundaria de Valle Pao prepara dos requisitos distintos de la misión principal: conseguir un compañero y obtener la linterna.
+**Relación con la progresión:** el **Caramelo de Chimó y Yerbabuena** permite a JP silbar y llamar a Cara de León desde la casa del árbol, facilitando su reclutamiento. La tanga se entrega a Bichito Birriondo a cambio de la linterna que exige el guardabosques para entrar en las Cuevas del Indio. Así, esta cadena secundaria de Valle Pao prepara dos requisitos distintos de la misión principal: conseguir un compañero y obtener la linterna.
 
 **Personajes confirmados:** Mateo Rocadulce (padre de Tiburcio), Tiburcio Rocadulce, Cara de León y Bichito Birriondo.
 
 **Objetos confirmados:** caramelo que estimula el silbido, recorte de periódico con anuncio de trabajo de peluquero, tanga rosada/fucsia de Tiburcio y linterna.
 
-**Pendiente:** nombre del caramelo; ubicación exacta del recorte; texto del anuncio; y diálogos y puesta en escena de la conversación con Tiburcio.
+**Pendiente:** nombre del **Caramelo de Chimó y Yerbabuena**; ubicación exacta del recorte; texto del anuncio; y diálogos y puesta en escena de la conversación con Tiburcio.
