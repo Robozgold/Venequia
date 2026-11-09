@@ -332,3 +332,10 @@ Los nombres son sugerencias para documentar la lógica; se podrán ajustar a las
 La persistencia concreta de los enemigos derrotados dentro de la mazmorra deberá resolverse mediante páginas de eventos/Switches locales o globales según la estructura de mapas. No se debe activar un reinicio general de enemigos al reclutar a DD01.
 
 **Pendiente:** identificar las criaturas del encuentro exterior, motivo narrativo, punto exacto de activación, resultado de la batalla y comprobar la mejor estructura de eventos en una copia del proyecto RPG Maker MZ.
+
+
+### Contexto narrativo de los encuentros: criaturas alteradas
+
+Los encuentros con animales y criaturas agresivas del capítulo I están vinculados a un fenómeno extraño que afecta Valle Pao desde antes del comienzo del juego. El creador confirma los siguientes indicios ambientales: aire que se siente contaminado, agua en mal estado o «piche» y animales/criaturas que han comenzado a comportarse de forma anormal. Algunas criaturas que antes no atacaban ahora se vuelven agresivas y atacan a las personas.
+
+El primer indicio puede presentarlo un NPC que JP encuentra al salir de casa. La causa del fenómeno y su relación con los sucesos de las Cuevas del Indio quedan POR DEFINIR. La documentación de los enemigos deberá mantener abierta esta incógnita y no atribuir su agresividad a una causa no confirmada.
