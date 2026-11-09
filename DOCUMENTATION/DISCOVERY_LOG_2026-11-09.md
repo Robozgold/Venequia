@@ -147,3 +147,10 @@ El creador confirma que ya ha compuesto varias pistas con Suno específicamente 
 - Una banda de punk en 8 bits.
 
 Estas pistas son música creada para esos NPCs y forman parte de la identidad musical del mundo de Venequia. Podrán servir como base para los casetes que DD01 reproduce durante los combates. Todavía no se ha definido qué canciones serán casetes, qué efecto de atributos tendrá cada una ni cómo se obtendrán y utilizarán.
+
+
+### Disponibilidad y desbloqueo de casetes en el capítulo I
+
+El creador confirma que durante el primer capítulo el jugador conseguirá aproximadamente **3 casetes**. Se podrán obtener antes de que DD01 se una a la party, pero no se podrán reproducir ni utilizar hasta que DD01 se incorpore al grupo. A partir de ese momento, como único personaje capaz de reproducirlos, DD01 permitirá utilizar los casetes que el jugador haya conseguido.
+
+La cantidad es aproximada (unos tres) para el capítulo I. La ubicación y forma de conseguir cada casete, así como la canción y el efecto de atributos asociados a cada uno, quedan POR DEFINIR.
