@@ -21,6 +21,14 @@ La personalidad propia de Venequia estará principalmente en el contenido del co
 - Habilidades de los personajes.
 - Enemigos y encuentros con identidad propia.
 
+### Party principal del capítulo I — confirmada
+
+Los cuatro personajes principales de la party del capítulo I son:
+- Jotape
+- CareLeón
+- Yt0
+- DD01
+
 ### Identidad y habilidades de los personajes — decisiones confirmadas
 
 Cada personaje tendrá **habilidades personalizadas y diferenciadas**. Los repertorios no serán idénticos: cada integrante tendrá técnicas que reflejen su propia identidad y le den una utilidad reconocible dentro del grupo.
@@ -33,7 +41,7 @@ Cada personaje tendrá **habilidades personalizadas y diferenciadas**. Los reper
 
 El creador ha definido una progresión inicial deliberadamente limitada:
 
-- Cada uno de los cuatro personajes principales de la party aprenderá o tendrá **una sola habilidad especial** durante el capítulo I.
+- Cada uno de los cuatro personajes principales —Jotape, CareLeón, Yt0 y DD01— aprenderá o tendrá **una sola habilidad especial** durante el capítulo I.
 - **Dos personajes** aprenderán su habilidad al alcanzar un nivel determinado.
 - **Un personaje** aprenderá su habilidad mediante un objeto.
 - **Un personaje** ya tendrá su habilidad cuando se una a la party.
