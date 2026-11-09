@@ -86,8 +86,10 @@ Decisión confirmada:
 - Cada uno de los cuatro personajes tendrá o aprenderá una sola habilidad especial durante el capítulo I.
 - Dos personajes aprenderán su habilidad al subir a un nivel determinado.
 - Un personaje aprenderá la habilidad mediante un objeto.
-- Un personaje ya tendrá la habilidad al incorporarse a la party.
-- Aún falta asignar qué personaje corresponde a cada método, definir el nivel, el objeto y las habilidades concretas.
+- **DD01** ya tendrá la habilidad al incorporarse a la party.
+- **Yt0** aprenderá su habilidad mediante un objeto.
+- **Jotape y CareLeón** aprenderán sus habilidades al subir de nivel.
+- Quedan por definir los niveles, el objeto y las cuatro habilidades concretas.
 - La restricción de una habilidad es para el capítulo I; no define la progresión de capítulos posteriores.
 
 ### Party principal del capítulo I
@@ -100,7 +102,7 @@ Confirmación del creador: los cuatro personajes principales de la party del cap
 
 > DD01
 
-Decisión confirmada: **DD01 ya tendrá su habilidad especial cuando se una a la party**. Por tanto, los otros tres personajes —Jotape, CareLeón y Yt0— se repartirán los dos desbloqueos por nivel y el desbloqueo mediante objeto. La asignación entre esos tres sigue pendiente.
+Decisión confirmada: **DD01 ya tendrá su habilidad especial cuando se una a la party**. Además, **Yt0 aprenderá su habilidad mediante un objeto**, mientras que **Jotape y CareLeón la aprenderán al subir de nivel**. Quedan por definir los niveles, el objeto y las habilidades concretas.
 
 La disposición exacta de la batalla, comandos, turnos, estadísticas y reglas todavía deben verificarse y definirse. La referencia no autoriza copiar recursos, textos ni contenido protegido de Final Fantasy.
 
@@ -113,4 +115,4 @@ La disposición exacta de la batalla, comandos, turnos, estadísticas y reglas t
 
 ## Próximo paso
 
-Asignar a Jotape, CareLeón y Yt0 los dos métodos restantes (subida de nivel y objeto), y definir las cuatro habilidades concretas. Antes de ajustar el balance, inspeccionar una copia segura del proyecto RPG Maker MZ y documentar el sistema de batalla actual.
+Definir los niveles en que Jotape y CareLeón aprenden sus habilidades, el objeto que permite a Yt0 aprender la suya y las cuatro habilidades concretas. Antes de ajustar el balance, inspeccionar una copia segura del proyecto RPG Maker MZ y documentar el sistema de batalla actual.
