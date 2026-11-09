@@ -326,3 +326,10 @@ El creador aclara que, para simplificar el sistema, JP solo obtiene **Fuerza de 
 **Decisión posterior:** Yt0 es el único personaje que aprende y conserva Fuerza de Loco como habilidad propia. Se une a la party sin ella y la aprende al subir de nivel. Esta opción refuerza su identidad de personaje disciplinado que desarrolla su fuerza mediante entrenamiento y evita añadir otra bebida, objeto o misión. El nivel concreto de aprendizaje queda POR DEFINIR.
 
 Esta aclaración precisa y reemplaza la ambigüedad anterior sobre si JP aprendía la habilidad de forma permanente y sobre si la bebida era el objeto de aprendizaje permanente de Yt0.
+
+
+### Segunda roca movible por Yt0 en las Cuevas del Indio
+
+El creador confirma que dentro de las **Cuevas del Indio** habrá otra roca que bloquea el paso. Una vez que Yt0 forme parte del grupo y haya aprendido **Fuerza de Loco** al subir de nivel, podrá moverla. Este segundo obstáculo demuestra la utilidad de la habilidad en la mazmorra y conecta la progresión de personaje con la exploración.
+
+Queda por definir la ubicación exacta de la roca, qué camino o recompensa desbloquea y si el obstáculo es obligatorio para completar la cueva.
