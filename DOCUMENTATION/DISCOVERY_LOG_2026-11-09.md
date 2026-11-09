@@ -262,3 +262,26 @@ Queda establecido que Tiburcio es estilista-peluquero, soñaba con abrir una pel
 El creador confirma que **Tiburcio aparece físicamente en el capítulo I como NPC antes de su transformación rocosa**. El NPC ya está creado por el propio creador. Por tanto, la apariencia de armadura rocosa descrita en su biografía corresponde a una etapa posterior de su historia, no a su aspecto durante esa aparición inicial.
 
 Quedan por definir su ubicación y momento exactos dentro del capítulo I, cómo JP consigue la tanga fucsia y qué acontecimientos conducen a la transformación.
+
+
+### Cadena de misiones de Valle Pao: Mateo y Tiburcio Rocadulce, el silbido y la tanga
+
+El creador explica la cadena de misiones que permite reclutar a Cara de León y obtener la tanga que se intercambia por la linterna:
+
+- Para reclutar a **Cara de León**, JP tiene que aprender a silbar. Cara de León vive en una casa del árbol. JP toca el timbre, pero no recibe respuesta. Otro NPC le explica que Cara de León nunca escucha el timbre y que la única manera de llamar su atención es silbando.
+- JP no sabe silbar. Mientras explora Valle Pao, conoce a **Mateo Rocadulce**, un hombre que está silbando en las afueras de su casa. Mateo le dice que hay que «silbarle a la vida».
+- Mateo posee un **caramelo que estimula el silbido**, incluso si quien lo consume no sabe silbar. Está dispuesto a dárselo a JP si lo ayuda con su hijo **Tiburcio**, que lleva meses encerrado en el clóset y no se atreve a salir.
+- Dentro de la casa, JP encuentra una puerta detrás de la cual está Tiburcio. Tiburcio no está dispuesto a salir.
+- Explorando Valle Pao, JP encuentra un **recorte de un anuncio de periódico** que solicita un peluquero en Ciudad Caótica para «lavar cabezas».
+- JP entrega el recorte a Tiburcio. Ese anuncio le da el impulso necesario para salir del clóset.
+- Una vez que Tiburcio sale, Mateo puede entregarle a JP el caramelo.
+- Al entrar en la habitación de Tiburcio, JP encuentra la **tanga de color rosado/fucsia** que luego llevará a Bichito Birriondo.
+- Birriondo cree que la prenda pertenece a una de las mujeres de Valle Pao. En realidad, pertenece a Tiburcio, y esa confusión es el remate cómico del intercambio por la linterna.
+
+**Relación con la progresión:** el caramelo permite a JP silbar y llamar a Cara de León desde la casa del árbol, facilitando su reclutamiento. La tanga se entrega a Bichito Birriondo a cambio de la linterna que exige el guardabosques para entrar en las Cuevas del Indio. Así, esta cadena secundaria de Valle Pao prepara dos requisitos distintos de la misión principal: conseguir un compañero y obtener la linterna.
+
+**Personajes confirmados:** Mateo Rocadulce (padre de Tiburcio), Tiburcio Rocadulce, Cara de León y Bichito Birriondo.
+
+**Objetos confirmados:** caramelo que estimula el silbido, recorte de periódico con anuncio de trabajo de peluquero, tanga rosada/fucsia de Tiburcio y linterna.
+
+**Pendiente:** nombre del caramelo; ubicación exacta del recorte; texto del anuncio; diálogos y puesta en escena de la conversación con Tiburcio; y detalles de cómo se recoge la tanga de su habitación.
