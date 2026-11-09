@@ -186,3 +186,8 @@ En cada batalla solo se podrá utilizar **un casete**. Una vez reproducido, no s
 En Valle Pao se celebra una **Patinetada** para conmemorar los «sopotocientos años» del lugar. Una de las atracciones del evento es la presentación en vivo de la banda **PUNK T.A.M.P.**, cuyo nombre significa **«Tírame algo menos piedra»**.
 
 Durante la celebración hay una tienda que vende mercancía de la banda. En esa tienda el jugador podrá conseguir uno de los casetes asociados al sistema musical de DD01. El creador aún no ha concretado si el casete se regala, se obtiene como parte de una compra u otra interacción con la tienda; el método exacto queda POR DEFINIR.
+
+
+#### Obtención de otro casete — Rashid, compañero del DJ — confirmación del creador
+
+El DJ del Valle Pao tiene un compañero llamado **Rashid**. Rashid podrá obsequiar al jugador uno de los casetes musicales. La forma concreta de activar/recibir el regalo (diálogo, misión, condición o momento) queda POR DEFINIR.
