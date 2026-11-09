@@ -92,4 +92,6 @@ Se han mencionado **Pase por un día**, **Huevos Chimbos** y **Guarapita Shots**
 
 **Elementos establecidos por la biografía:** Tiburcio es estilista-peluquero; soñaba con abrir una peluquería y convertirla en franquicia; una explosión por cables pelados y una fuga de gas destruyó el local que construía y lo sepultó; el Profesor Bichito² incorporó las rocas que lo sepultaron a su cuerpo; ahora lleva una armadura rocosa, tangas fucsia y zarcillos, y combate a quienes intentan causar el caos en Ciudad Caótica.
 
-**Pendiente de definir:** cómo JP consigue la tanga de Tiburcio; dónde se encuentra Tiburcio durante el capítulo I; si aparece en persona o si la prenda se obtiene de otra manera; y si «Profesor Bichito²» es una forma intencional de nombrar al profesor o una notación que requiere aclaración.
+**Aparición en el capítulo I:** Tiburcio aparece físicamente como NPC antes de su transformación rocosa. El creador confirma que el NPC ya está creado. La versión transformada pertenece a un momento posterior de su historia.
+
+**Pendiente de definir:** cómo JP consigue la tanga de Tiburcio; dónde y en qué momento concreto aparece el NPC durante el capítulo I; qué ocurre entre su aparición inicial y su transformación; y si «Profesor Bichito²» es una forma intencional de nombrar al profesor o una notación que requiere aclaración.
