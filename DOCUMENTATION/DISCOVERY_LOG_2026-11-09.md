@@ -159,3 +159,8 @@ La cantidad es aproximada (unos tres) para el capítulo I. La ubicación y forma
 ### Consumo de los casetes
 
 El creador confirma que los casetes son **items de un solo uso**: al reproducir uno con DD01, se consume y desaparece del inventario. No se puede volver a utilizar. La regla se incorpora al diseño del sistema musical de DD01.
+
+
+### Límite de casetes por batalla
+
+El creador confirma que se podrá utilizar **un solo casete por batalla**. Después de reproducirlo, no se podrá utilizar otro durante ese mismo combate. El efecto del casete seleccionado dura toda la batalla. La decisión busca mantener la mecánica sencilla y evitar combinar mejoras.
