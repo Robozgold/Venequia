@@ -38,7 +38,7 @@ POR CONFIRMAR. Establecer pasado del mundo, acontecimientos previos, cronología
 | Jotape | Protagonista | POR CONFIRMAR | Provisional |
 | CareLeón | Personaje reclutable | POR CONFIRMAR | Provisional |
 | Yt0 | Personaje reclutable | POR CONFIRMAR | Provisional |
-| DD01 | Personaje reclutable | POR CONFIRMAR | Provisional |
+| DD01 | Personaje reclutable | POR CONFIRMAR | Provisional |\n| Tiburcio Rocadulce | Personaje de Valle Pao; dueño de la tanga fucsia/rosada del intercambio con Birriondo | Estilista-peluquero cuya historia mezcla una tragedia absurda, una armadura de roca y su sueño de franquiciar su peluquería | Biografía aportada por el creador |
 
 ## Ficha obligatoria por personaje
 - Nombre y apodos:
@@ -79,4 +79,17 @@ Se han mencionado **Pase por un día**, **Huevos Chimbos** y **Guarapita Shots**
 
 **Función narrativa y jugable:** la búsqueda de DD01 es el objetivo principal que pone en marcha la aventura. El bloqueo de la entrada establece un objetivo intermedio claro y motiva la incorporación de Cara de León y Yt0 al equipo. La linterna se consigue mediante un intercambio con **Bichito Birriondo**, hermano del Prof. Bichito. Birriondo le pide a JP una pantaleta/prenda interior que él cree que pertenece a una de las mujeres de Valle Pao; a cambio, le entrega la linterna. El giro cómico confirmado por el creador es que JP consigue una **tanga rosada de un personaje masculino** que no pertenece al grupo de mujeres. Birriondo la acepta creyendo que es de una de ellas, sin saber que en realidad pertenece a un hombre. El humor de la misión nace de esa confusión y de la ironía de que el objeto sí le sirve para cumplir su encargo, aunque su suposición sea equivocada. Birriondo es un extraterrestre con debilidad por las mujeres y poca suerte intentando ligar.
 
-**Pendiente de confirmar:** la grafía definitiva del nombre «Cara de León» frente a la forma «CareLeón» usada en otros documentos; la identidad del personaje masculino dueño de la tanga rosada y cómo JP consigue la prenda; cómo se desarrolla la reacción de Birriondo al recibirla; las condiciones concretas para reclutar a cada compañero; y los acontecimientos dentro de las Cuevas del Indio.
+**Pendiente de confirmar:** la grafía definitiva del nombre «Cara de León» frente a la forma «CareLeón» usada en otros documentos; cómo JP consigue la tanga de Tiburcio Rocadulce; cómo se desarrolla la reacción de Birriondo al recibirla; las condiciones concretas para reclutar a cada compañero; y los acontecimientos dentro de las Cuevas del Indio.
+
+
+### Tiburcio Rocadulce
+
+**Biografía proporcionada por el creador:**
+
+> El mayor logro del estilista-peluquero Tiburcio Rocadulce era emprender su propia peluquería/ salón de belleza y poder convertirlo en una franquicia. Desde muy chamito siempre supo que su verdadera pasión y propósito en la vida era la de lavar cabezas todo el santo día. Un día una fuerte explosión causada por unos cables pelados y una fuga de gas en el interior de su primer local (el cual estaba construyendo con sus propias manos), lo dejó sepultado bajo los ladrillos y escombros de la edificación. Cuando la unidad de rescate finalmente encontró el cuerpo de Tiburcio lapidado debajo de un montón de rocas, el Profesor Bichito² decidió hacer que estas piedras fueran parte de él. Ahora, cubierto de pies a cabeza en una armadura rocosa y vestido con unas tangas fucsia que hacen juego con sus zarcillos, Rocadulce ayuda a combatir a todo aquel que intenta causar el caos en Ciudad Caótica.
+
+**Conexión con la misión de la linterna:** Tiburcio Rocadulce es el personaje masculino dueño de la tanga fucsia/rosada que JP consigue y entrega a Bichito Birriondo. Birriondo cree equivocadamente que la prenda pertenece a una de las mujeres de Valle Pao. La confusión constituye el remate cómico del intercambio por la linterna.
+
+**Elementos establecidos por la biografía:** Tiburcio es estilista-peluquero; soñaba con abrir una peluquería y convertirla en franquicia; una explosión por cables pelados y una fuga de gas destruyó el local que construía y lo sepultó; el Profesor Bichito² incorporó las rocas que lo sepultaron a su cuerpo; ahora lleva una armadura rocosa, tangas fucsia y zarcillos, y combate a quienes intentan causar el caos en Ciudad Caótica.
+
+**Pendiente de definir:** cómo JP consigue la tanga de Tiburcio; dónde se encuentra Tiburcio durante el capítulo I; si aparece en persona o si la prenda se obtiene de otra manera; y si «Profesor Bichito²» es una forma intencional de nombrar al profesor o una notación que requiere aclaración.
