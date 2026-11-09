@@ -273,9 +273,10 @@ El creador explica la cadena de misiones que permite reclutar a Cara de León y 
 - Mateo posee un **caramelo que estimula el silbido**, incluso si quien lo consume no sabe silbar. Está dispuesto a dárselo a JP si lo ayuda con su hijo **Tiburcio**, que lleva meses encerrado en el clóset y no se atreve a salir.
 - Dentro de la casa, JP encuentra una puerta detrás de la cual está Tiburcio. Tiburcio no está dispuesto a salir.
 - Explorando Valle Pao, JP encuentra un **recorte de un anuncio de periódico** que solicita un peluquero en Ciudad Caótica para «lavar cabezas».
-- JP entrega el recorte a Tiburcio. Ese anuncio le da el impulso necesario para salir del clóset.
-- Una vez que Tiburcio sale, Mateo puede entregarle a JP el caramelo.
-- Al entrar en la habitación de Tiburcio, JP encuentra la **tanga de color rosado/fucsia** que luego llevará a Bichito Birriondo.
+- JP entrega el recorte a Tiburcio. Ese anuncio le da el impulso necesario para decidir salir del clóset.
+- Tiburcio deja Valle Pao y se marcha rumbo a **Ciudad Caótica** para perseguir su sueño de trabajar como peluquero y lavar cabezas.
+- Después de que Tiburcio se marcha, Mateo cumple su promesa y entrega a JP el caramelo que estimula el silbido.
+- JP puede revisar la habitación de Tiburcio y encuentra la **tanga de color rosado/fucsia entre la ropa sucia**. Luego se la lleva a Bichito Birriondo.
 - Birriondo cree que la prenda pertenece a una de las mujeres de Valle Pao. En realidad, pertenece a Tiburcio, y esa confusión es el remate cómico del intercambio por la linterna.
 
 **Relación con la progresión:** el caramelo permite a JP silbar y llamar a Cara de León desde la casa del árbol, facilitando su reclutamiento. La tanga se entrega a Bichito Birriondo a cambio de la linterna que exige el guardabosques para entrar en las Cuevas del Indio. Así, esta cadena secundaria de Valle Pao prepara dos requisitos distintos de la misión principal: conseguir un compañero y obtener la linterna.
@@ -284,4 +285,4 @@ El creador explica la cadena de misiones que permite reclutar a Cara de León y 
 
 **Objetos confirmados:** caramelo que estimula el silbido, recorte de periódico con anuncio de trabajo de peluquero, tanga rosada/fucsia de Tiburcio y linterna.
 
-**Pendiente:** nombre del caramelo; ubicación exacta del recorte; texto del anuncio; diálogos y puesta en escena de la conversación con Tiburcio; y detalles de cómo se recoge la tanga de su habitación.
+**Pendiente:** nombre del caramelo; ubicación exacta del recorte; texto del anuncio; y diálogos y puesta en escena de la conversación con Tiburcio.
