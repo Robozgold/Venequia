@@ -249,3 +249,10 @@ El creador propone que el primer NPC con quien JP se encuentre al salir de su ca
 Este diálogo planta una pista temprana sobre el misterio ambiental. Más adelante, los ataques de criaturas durante la exploración de las Cuevas del Indio y el nuevo encuentro exterior después de rescatar a DD01 pueden mostrar al jugador que la agresividad de los animales forma parte de un problema más amplio.
 
 **Importante:** la relación entre el deterioro del aire/agua, el comportamiento de las criaturas y cualquier acontecimiento dentro de las Cuevas del Indio es una línea de misterio por desarrollar. No se ha confirmado todavía una causa concreta, responsable ni explicación.
+
+
+### Encuentro con DD01 en las Cuevas del Indio: inconsciente tras una derrota
+
+Cuando JP y sus compañeros finalmente encuentran a **DD01** dentro de las Cuevas del Indio, el robot está **inconsciente**. Después de que JP consiga despertarlo, DD01 explica que fue atacado por una **criatura de alto nivel** y que perdió el combate.
+
+Este es el estado en que el grupo encuentra al robot antes de incorporarlo a la party. La explicación de DD01 confirma que las criaturas de la mazmorra pueden representar una amenaza seria, incluso para él. La identidad de la criatura, el lugar exacto del ataque, cómo JP despierta a DD01 y si la criatura sigue cerca quedan POR DEFINIR.
