@@ -78,7 +78,17 @@ Decisión confirmada:
 - La diferenciación podrá estar en efectos, potencia, coste, condiciones o utilidad táctica.
 - La intención es dar identidad y una función reconocible a cada integrante, manteniendo el combate simple.
 
-Quedan por definir el catálogo concreto, el aprendizaje/desbloqueo y el balance de las habilidades.
+### Progresión de habilidades durante el capítulo I
+
+> para esta primera etapa del juego o el capitulo I , podrian cada jpersonaje aprender una sola habilidad. 2 de los personajes la pueden aprender subiendo el nivel, otro a traves de un objeto y el otro ya la tenga cuando se una a la party
+
+Decisión confirmada:
+- Cada uno de los cuatro personajes tendrá o aprenderá una sola habilidad especial durante el capítulo I.
+- Dos personajes aprenderán su habilidad al subir a un nivel determinado.
+- Un personaje aprenderá la habilidad mediante un objeto.
+- Un personaje ya tendrá la habilidad al incorporarse a la party.
+- Aún falta asignar qué personaje corresponde a cada método, definir el nivel, el objeto y las habilidades concretas.
+- La restricción de una habilidad es para el capítulo I; no define la progresión de capítulos posteriores.
 
 La disposición exacta de la batalla, comandos, turnos, estadísticas y reglas todavía deben verificarse y definirse. La referencia no autoriza copiar recursos, textos ni contenido protegido de Final Fantasy.
 
@@ -91,4 +101,4 @@ La disposición exacta de la batalla, comandos, turnos, estadísticas y reglas t
 
 ## Próximo paso
 
-Definir la identidad de combate de cada personaje y, más adelante, el catálogo de skills, habilidades e items del capítulo 1. Antes de ajustar el balance, inspeccionar una copia segura del proyecto RPG Maker MZ y documentar el sistema de batalla actual.
+Asignar los cuatro métodos de aprendizaje a cada personaje y definir sus habilidades concretas. Antes de ajustar el balance, inspeccionar una copia segura del proyecto RPG Maker MZ y documentar el sistema de batalla actual.
