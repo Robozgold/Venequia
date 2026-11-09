@@ -194,3 +194,8 @@ El creador confirma que DD01 comenzará con **curación individual**, capaz de r
 ### Posibles capacidades de exploración y conocimiento de DD01
 
 El creador propone explorar utilidades que reflejen que DD01 es un robot/inteligencia artificial con conocimientos más desarrollados que los demás miembros del grupo. Menciona como posibilidades detectar objetos ocultos y poder leer o comprender idiomas, escrituras o textos que otros personajes no entienden. Son **ideas por explorar**, todavía no decisiones definitivas: falta seleccionar capacidades, definir sus límites y decidir cómo se desbloquean y utilizan.
+
+
+### Exclusividad de DD01 en la exploración
+
+El creador confirma que quiere que algunas capacidades de exploración y conocimiento sean exclusivas de DD01. Por tanto, habrá lugares, secretos, textos, mecanismos o dispositivos que solo podrán descubrirse, comprenderse o utilizarse cuando DD01 forme parte de la party. Las capacidades concretas y sus límites siguen POR DEFINIR.
