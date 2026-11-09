@@ -323,6 +323,6 @@ La secuencia conecta la identidad de Yt0 como entusiasta del ejercicio con el de
 
 El creador aclara que, para simplificar el sistema, JP solo obtiene **Fuerza de Loco temporalmente** al beber la mezcla de la prueba del gimnasio. Uno de los ingredientes empleados no es exactamente el que se necesitaría normalmente para preparar esa bebida, pero puede funcionar como sustituto y otorgar el efecto. JP utiliza esa fuerza para mover la roca o el balón medicinal y, una vez que lo hace, pierde la habilidad. No vuelve a tener Fuerza de Loco durante el juego.
 
-**Yt0 es el único personaje que aprende y conserva Fuerza de Loco como habilidad propia.** Queda sin decidir si Yt0 ya la posee cuando se une a la party o si la aprende al subir de nivel; el creador se inclina por la opción más sencilla para no complicar la implementación.
+**Decisión posterior:** Yt0 es el único personaje que aprende y conserva Fuerza de Loco como habilidad propia. Se une a la party sin ella y la aprende al subir de nivel. Esta opción refuerza su identidad de personaje disciplinado que desarrolla su fuerza mediante entrenamiento y evita añadir otra bebida, objeto o misión. El nivel concreto de aprendizaje queda POR DEFINIR.
 
 Esta aclaración precisa y reemplaza la ambigüedad anterior sobre si JP aprendía la habilidad de forma permanente y sobre si la bebida era el objeto de aprendizaje permanente de Yt0.
