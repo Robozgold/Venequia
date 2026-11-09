@@ -208,3 +208,13 @@ La distribución exacta de enemigos, encuentros, zonas, frecuencia y dificultad 
 Los enemigos de las Cuevas del Indio serán **visibles en el mapa**. Cuando JP y el grupo se acerquen lo suficiente a una criatura, se iniciará automáticamente una batalla, sin necesidad de interactuar con ella. El sistema toma como referencia los encuentros visibles de Pokémon y sustituye los encuentros aleatorios como método principal en esta mazmorra.
 
 La distancia de activación, el comportamiento de los enemigos al detectar al jugador y la posibilidad de rodearlos quedan POR DEFINIR.
+
+
+#### Tipos de encuentros visibles en las Cuevas del Indio
+
+Los enemigos visibles podrán presentar al menos dos comportamientos, según el tipo de criatura y su ubicación:
+
+- Algunos se moverán por la mazmorra y se acercarán a JP cuando lo detecten, iniciando una batalla al alcanzarlo.
+- Otros permanecerán en medio de un camino o pasillo y bloquearán el avance. Será necesario derrotarlos para continuar; al terminar la batalla, desaparecerán del mapa y el jugador podrá pasar.
+
+Así, los encuentros no serán todos iguales: unos surgirán de la exploración y otros serán obstáculos deliberados en el recorrido. Qué criaturas usarán cada comportamiento y en qué puntos aparecerán queda POR DEFINIR.
