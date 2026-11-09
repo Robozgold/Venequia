@@ -10,18 +10,43 @@ Cada sistema debe documentar propósito, reglas, datos, interfaz, dependencias, 
 - Secretos, recompensas y progresión: POR CONFIRMAR.
 
 ## Combate
-- Modelo: combate por turnos descrito previamente para el proyecto; verificar implementación actual.
-- Estado del capítulo 1: el creador indica que todavía hay que añadir batallas.
-- Encuentros: identificar qué batallas son obligatorias, opcionales, de jefe o tutoriales.
-- Participantes y tamaño del grupo: POR CONFIRMAR.
-- Orden de turnos: POR CONFIRMAR.
+
+### Dirección confirmada por el creador
+
+El combate debe ser **simple y clásico, tomando como referencia Final Fantasy I**. El creador no busca inventar un sistema de combate nuevo ni introducir mecánicas experimentales.
+
+La personalidad propia de Venequia estará principalmente en el contenido del combate:
+- Skills y técnicas.
+- Items y objetos utilizables.
+- Habilidades de los personajes.
+- Enemigos y encuentros con identidad propia.
+
+### Principios de implementación
+
+- Mantener una estructura clásica de combate RPG por turnos.
+- Priorizar claridad, facilidad de comprensión y ritmo.
+- Evitar complejidad innecesaria, sistemas de combos o subsistemas nuevos salvo que el creador los solicite.
+- Preferir aprovechar el sistema de batalla existente de RPG Maker MZ si satisface el diseño, antes que desarrollar un motor de combate personalizado.
+- Tomar Final Fantasy I como referencia de diseño general; no copiar sus recursos, nombres, textos ni contenido protegido.
+
+### Pendiente de especificación y auditoría
+
+- Presentación exacta de la pantalla de batalla y disposición del grupo: POR CONFIRMAR.
+- Orden de turnos y fórmula de velocidad: POR CONFIRMAR.
+- Comandos disponibles en batalla: POR CONFIRMAR.
+- Tamaño del grupo y número de enemigos: POR CONFIRMAR.
 - Recursos (vida, energía, etc.): POR CONFIRMAR.
-- Habilidades, estados y elementos: POR CONFIRMAR.
-- Enemigos y patrones: POR CONFIRMAR.
+- Catálogo de skills y habilidades por personaje: POR CONFIRMAR.
+- Inventario de items utilizables en batalla: POR CONFIRMAR.
+- Enemigos, jefes, estadísticas y patrones: POR CONFIRMAR.
 - Condiciones de victoria/derrota: POR CONFIRMAR.
-- Recompensas y drops: POR CONFIRMAR.
+- Recompensas, experiencia y drops: POR CONFIRMAR.
 - Encuentros aleatorios o visibles: POR CONFIRMAR.
 - Curva de dificultad y balance: POR CONFIRMAR.
+
+### Trabajo del capítulo 1
+
+El creador indica que todavía hay que añadir batallas. Durante la auditoría se elaborará una lista de encuentros necesarios y se vinculará cada uno con su mapa, evento, enemigo, recompensa y propósito dentro del capítulo.
 
 ## NPCs y diálogos
 - El creador identifica la personalización de NPCs como trabajo pendiente del capítulo 1.
@@ -32,6 +57,7 @@ Cada sistema debe documentar propósito, reglas, datos, interfaz, dependencias, 
 
 ## Items e inventario
 - El creador identifica completar los items como trabajo pendiente del capítulo 1.
+- Los items forman parte de la identidad de Venequia junto con las skills y habilidades de los personajes.
 - Inventario de objetos: POR CONFIRMAR.
 - Función, descripción, precio, disponibilidad y balance de cada objeto: POR CONFIRMAR.
 - Consumibles, equipo, objetos de misión y objetos clave: clasificar durante la auditoría.
