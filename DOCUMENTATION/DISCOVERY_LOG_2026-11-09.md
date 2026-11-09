@@ -357,3 +357,16 @@ El creador confirma que los encuentros visibles de las Cuevas del Indio pueden c
 - Otras permanecen en medio de caminos o pasillos y bloquean el paso. El jugador debe derrotarlas para que desaparezcan del mapa y pueda continuar avanzando.
 
 La intención es combinar enemigos que se mueven hacia el jugador con enemigos colocados como bloqueos deliberados de la mazmorra. Los tipos de criatura, rangos de detección y ubicaciones concretas quedan por definir.
+
+
+### Nuevo encuentro exterior después de rescatar a DD01
+
+El creador confirma que, una vez que JP encuentra a DD01 y este se une al grupo, el equipo debe salir de las Cuevas del Indio y enfrentarse a **otro grupo de criaturas** en el exterior.
+
+Los enemigos derrotados dentro de las cuevas desaparecen y no deben reaparecer todos automáticamente. El encuentro exterior será un nuevo acontecimiento que ocurre después de la incorporación de DD01.
+
+El creador plantea que el cambio de estado pueda gestionarse con un Switch, una variable o una condición de RPG Maker MZ, sin tener todavía decidida la implementación.
+
+**Recomendación técnica registrada:** usar un Switch activado cuando DD01 se une al grupo para habilitar el evento exterior y otro Switch para marcar que el encuentro ya fue completado, evitando que se repita al regresar al mapa. Los nombres sugeridos son `DD01_RESCATADO` y `ENCUENTRO_EXTERIOR_DD01_COMPLETADO`. Es una propuesta de implementación, no una decisión técnica ya probada en el proyecto.
+
+Quedan por definir las criaturas, la causa del encuentro, el punto de activación y el desenlace.
