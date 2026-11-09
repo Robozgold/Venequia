@@ -275,7 +275,7 @@ El creador explica la cadena de misiones que permite reclutar a Cara de León y 
 - Explorando Valle Pao, JP encuentra un **recorte de un anuncio de periódico** que solicita un peluquero en Ciudad Caótica para «lavar cabezas».
 - JP entrega el recorte a Tiburcio. Ese anuncio le da el impulso necesario para decidir salir del clóset.
 - Tiburcio deja Valle Pao y se marcha rumbo a **Ciudad Caótica** para perseguir su sueño de trabajar como peluquero y lavar cabezas.
-- Después de que Tiburcio se marcha, Mateo cumple su promesa y entrega a JP el caramelo que estimula el silbido.
+- Después de que Tiburcio se marcha, JP sale de la casa y habla con Mateo. Mateo le agradece haber ayudado a que su hijo finalmente salga del clóset y, como muestra de agradecimiento y en cumplimiento de su promesa, le entrega el caramelo que estimula el silbido.
 - JP puede revisar la habitación de Tiburcio y encuentra la **tanga de color rosado/fucsia entre la ropa sucia**. Luego se la lleva a Bichito Birriondo.
 - Birriondo cree que la prenda pertenece a una de las mujeres de Valle Pao. En realidad, pertenece a Tiburcio, y esa confusión es el remate cómico del intercambio por la linterna.
 
