@@ -272,3 +272,10 @@ La bebida de la prueba del gimnasio concede a **JP** Fuerza de Loco de manera **
 **Yt0 es el único personaje que aprende y conserva Fuerza de Loco como habilidad propia.** Se une a la party sin esta habilidad y la aprende al subir de nivel, reflejando su disciplina y progreso mediante el entrenamiento. El nivel exacto de aprendizaje queda POR DEFINIR. Esta progresión puede implementarse mediante el aprendizaje de habilidades por nivel del sistema nativo de RPG Maker MZ.
 
 Por tanto, la bebida de JP sirve para resolver el desafío de reclutamiento, no para otorgarle una habilidad permanente ni para definir por sí sola el aprendizaje de Yt0.
+
+
+#### Obstáculo de Fuerza de Loco en las Cuevas del Indio
+
+Además de la roca o balón medicinal del gimnasio, habrá una segunda roca pesada dentro de las **Cuevas del Indio** que bloqueará un camino. Para moverla se requiere que **Yt0 forme parte de la party y haya aprendido Fuerza de Loco** al subir de nivel.
+
+La comprobación jugable debe considerar ambas condiciones: presencia de Yt0 en el grupo y aprendizaje de la habilidad. Así, la habilidad funciona como requisito de exploración y recompensa por progresión de nivel. Quedan por definir la ubicación exacta del obstáculo, el contenido o ruta que desbloquea y si es obligatorio u opcional.
