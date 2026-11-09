@@ -370,3 +370,12 @@ El creador plantea que el cambio de estado pueda gestionarse con un Switch, una 
 **Recomendación técnica registrada:** usar un Switch activado cuando DD01 se une al grupo para habilitar el evento exterior y otro Switch para marcar que el encuentro ya fue completado, evitando que se repita al regresar al mapa. Los nombres sugeridos son `DD01_RESCATADO` y `ENCUENTRO_EXTERIOR_DD01_COMPLETADO`. Es una propuesta de implementación, no una decisión técnica ya probada en el proyecto.
 
 Quedan por definir las criaturas, la causa del encuentro, el punto de activación y el desenlace.
+
+
+### Misterio ambiental de Valle Pao y comportamiento extraño de las criaturas
+
+El creador explica que desde hace un tiempo están ocurriendo cosas extrañas en Valle Pao y que parece que nadie les presta atención. El aire se siente contaminado, el agua parece estar «piche» y los animales o criaturas se comportan de forma anormal. Antes no atacaban, pero ahora algo parece provocar que se comporten de manera extraña y ataquen a las personas.
+
+El creador propone introducir la advertencia mediante un NPC, posiblemente el primero que JP encuentra al salir de su casa. Ese personaje comenta que llevan un tiempo sucediendo cosas extrañas y menciona las señales ambientales.
+
+La causa, el origen y la explicación del fenómeno siguen sin definirse. Se registra como un misterio narrativo que puede conectar las criaturas agresivas de las Cuevas del Indio con el encuentro de criaturas en el exterior después de rescatar a DD01, sin dar por confirmada todavía ninguna explicación.
