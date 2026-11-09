@@ -242,3 +242,8 @@ DD01 tendrá una personalidad reconocible al comunicarse. Su condición de intel
 DD01 **sabe que es un robot** y no está confundido respecto a su naturaleza. Sin embargo, siente interés por conocer las relaciones humanas y comprender qué significa ser humano. El creador cita Astro Boy como referencia de tono/concepto para esta dimensión del personaje. La referencia orienta la curiosidad, sensibilidad y relación del robot con la humanidad; DD01 debe conservar identidad, historia, voz y desarrollo propios de Venequia, sin copiar el personaje ni sus elementos protegidos.
 
 Esta curiosidad puede expresarse mediante preguntas, observaciones y conversaciones sobre amistad, afecto, nostalgia, enfado, sacrificio y otras experiencias humanas. Su comprensión y evolución emocional a lo largo de la historia quedan POR DEFINIR.
+
+
+#### Evolución gradual de DD01 — dirección narrativa aceptada
+
+El creador considera buena la idea de que, a lo largo de los capítulos, DD01 vaya comprendiendo mejor las emociones y relaciones humanas y desarrolle una sensibilidad propia. Se registra como **dirección narrativa aceptada** para su arco a largo plazo, no como una transformación ya detallada. Los momentos, límites y cambios concretos de esta evolución se definirán al desarrollar la historia de cada capítulo.
