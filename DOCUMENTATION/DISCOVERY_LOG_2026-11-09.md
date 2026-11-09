@@ -347,3 +347,13 @@ Quedan por definir las especies concretas, su distribución, estadísticas, reco
 El creador decide que los enemigos serán **visibles en el mapa** y que, al acercarse JP lo suficiente a ellos, se activará automáticamente la batalla, como en los juegos de Pokémon. No serán encuentros aleatorios al caminar ni hará falta pulsar un botón para iniciar el combate.
 
 Quedan por definir la distancia de activación, si los enemigos persiguen al jugador y si existen rutas para evitar algunos encuentros.
+
+
+### Comportamientos variados de enemigos visibles
+
+El creador confirma que los encuentros visibles de las Cuevas del Indio pueden combinar dos comportamientos:
+
+- Algunas criaturas se acercan a JP cuando lo detectan y provocan la batalla al alcanzarlo.
+- Otras permanecen en medio de caminos o pasillos y bloquean el paso. El jugador debe derrotarlas para que desaparezcan del mapa y pueda continuar avanzando.
+
+La intención es combinar enemigos que se mueven hacia el jugador con enemigos colocados como bloqueos deliberados de la mazmorra. Los tipos de criatura, rangos de detección y ubicaciones concretas quedan por definir.
