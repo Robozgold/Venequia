@@ -310,3 +310,25 @@ El creador confirma que los enemigos visibles de las Cuevas del Indio podrán te
 - **Enemigos bloqueadores:** otras criaturas permanecerán en puntos estratégicos, como pasillos o caminos estrechos, impidiendo el avance. El jugador deberá derrotarlas para despejar el paso. Una vez derrotadas, desaparecerán del mapa y dejarán libre esa ruta.
 
 Esta variedad permite que algunos encuentros dependan del movimiento y detección del jugador, mientras que otros funcionen como bloqueos de progresión dentro de la mazmorra. Los rangos de detección, velocidades, condiciones de activación y persistencia del enemigo derrotado quedan POR DEFINIR.
+
+
+### Persistencia de enemigos y encuentro exterior tras el rescate de DD01
+
+Los enemigos derrotados dentro de las Cuevas del Indio **desaparecen del mapa y no reaparecen como parte de un reinicio general**. Los caminos despejados permanecen accesibles.
+
+Después de encontrar a DD01 y añadirlo a la party, el jugador debe salir de las cuevas. Al regresar al exterior se activa un encuentro nuevo contra otro grupo de criaturas. Este encuentro es un evento de progresión narrativa, no una reaparición de todos los enemigos anteriores.
+
+#### Implementación sugerida en RPG Maker MZ
+
+Se recomienda utilizar Switches y páginas de eventos, sin desarrollar un sistema personalizado:
+
+1. Al unirse DD01 a la party, activar un Switch de progreso, por ejemplo `DD01_RESCATADO`.
+2. El evento del encuentro exterior comprueba que ese Switch esté ON.
+3. Al completar la batalla, activar otro Switch, por ejemplo `ENCUENTRO_EXTERIOR_DD01_COMPLETADO`.
+4. Una página posterior del evento, condicionada por ese segundo Switch, evita que el encuentro vuelva a activarse.
+
+Los nombres son sugerencias para documentar la lógica; se podrán ajustar a las convenciones reales del proyecto. Si el encuentro debe ocurrir al volver a salir, la activación también deberá comprobar que el jugador está en el mapa exterior y que el encuentro todavía no se ha completado.
+
+La persistencia concreta de los enemigos derrotados dentro de la mazmorra deberá resolverse mediante páginas de eventos/Switches locales o globales según la estructura de mapas. No se debe activar un reinicio general de enemigos al reclutar a DD01.
+
+**Pendiente:** identificar las criaturas del encuentro exterior, motivo narrativo, punto exacto de activación, resultado de la batalla y comprobar la mejor estructura de eventos en una copia del proyecto RPG Maker MZ.
