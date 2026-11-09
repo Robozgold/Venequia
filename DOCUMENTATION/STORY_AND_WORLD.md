@@ -182,6 +182,6 @@ La bebida que JP prepara para superar la prueba del gimnasio **no le concede Fue
 - JP bebe la mezcla y obtiene Fuerza de Loco solo durante el tiempo necesario para mover la roca o el balón medicinal del gimnasio.
 - Después de mover el objeto, JP pierde la habilidad. No vuelve a obtenerla ni a utilizarla durante el resto del juego.
 - **Yt0 es el único personaje que aprende y conserva Fuerza de Loco como habilidad propia.**
-- Sigue POR DEFINIR si Yt0 ya posee la habilidad al incorporarse a la party o si la aprende al subir de nivel. La decisión se tomará buscando la implementación más sencilla.
+- **Decisión:** Yt0 se une a la party sin Fuerza de Loco y la aprende al subir de nivel. El nivel exacto queda POR DEFINIR.
 
 Esta aclaración sustituye cualquier interpretación anterior según la cual JP aprendiera permanentemente la habilidad o la bebida fuera necesariamente el método de aprendizaje permanente de Yt0.
