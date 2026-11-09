@@ -174,3 +174,8 @@ El creador explica que en Valle Pao se celebra una **Patinetada** para conmemora
 ### Rashid y segundo casete
 
 El creador confirma que el DJ del Valle Pao tiene un compañero llamado **Rashid**, quien podrá obsequiar al jugador uno de los casetes musicales. La condición o interacción exacta para recibirlo todavía queda POR DEFINIR.
+
+
+### Tercer casete: radio portátil en una casa de Valle Pao
+
+El creador propone que el tercer casete se consiga explorando una de las casas de Valle Pao. Podría estar dentro de un **radio portátil/reproductor portátil de casetes**. La casa exacta y cómo se recoge el objeto quedan POR DEFINIR.
