@@ -242,3 +242,16 @@ La secuencia establece una motivación narrativa para reunir al primer equipo y 
 Quedan POR DEFINIR la identidad del personaje masculino dueño de la tanga, cómo JP consigue la prenda y cómo se representa la reacción de Birriondo.
 
 **Pendiente:** confirmar la grafía definitiva de «Cara de León» frente a «CareLeón»; definir quién es el personaje masculino dueño de la tanga rosada y cómo JP la consigue; concretar cómo se incorporan Cara de León y Yt0; y desarrollar los eventos y el rescate de DD01 dentro de las cuevas.
+
+
+### Tiburcio Rocadulce: dueño de la tanga fucsia del intercambio
+
+El creador identifica al personaje masculino dueño de la tanga rosada como **Tiburcio Rocadulce** y comparte esta biografía:
+
+> El mayor logro del estilista-peluquero Tiburcio Rocadulce era emprender su propia peluquería/ salón de belleza y poder convertirlo en una franquicia. Desde muy chamito siempre supo que su verdadera pasión y propósito en la vida era la de lavar cabezas todo el santo día. Un día una fuerte explosión causada por unos cables pelados y una fuga de gas en el interior de su primer local (el cual estaba construyendo con sus propias manos), lo dejó sepultado bajo los ladrillos y escombros de la edificación. Cuando la unidad de rescate finalmente encontró el cuerpo de Tiburcio lapidado debajo de un montón de rocas, el Profesor Bichito² decidió hacer que estas piedras fueran parte de él. Ahora, cubierto de pies a cabeza en una armadura rocosa y vestido con unas tangas fucsia que hacen juego con sus zarcillos, Rocadulce ayuda a combatir a todo aquel que intenta causar el caos en Ciudad Caótica.
+
+**Conexión con la misión:** la tanga fucsia/rosada que JP consigue para Bichito Birriondo pertenece a Tiburcio Rocadulce. Birriondo cree que la prenda es de una de las mujeres de Valle Pao, pero en realidad pertenece a este personaje masculino. La confusión es el remate humorístico de la misión que permite obtener la linterna.
+
+Queda establecido que Tiburcio es estilista-peluquero, soñaba con abrir una peluquería y convertirla en franquicia, sobrevivió a una explosión que lo sepultó bajo escombros gracias a que el Profesor Bichito² incorporó las rocas a su cuerpo, y ahora combate a quienes intentan causar el caos en Ciudad Caótica con su armadura rocosa, tangas fucsia y zarcillos.
+
+**Pendiente:** cómo JP consigue la tanga; dónde y cómo aparece Tiburcio durante el capítulo I; y aclarar si la forma «Profesor Bichito²» es intencional.
