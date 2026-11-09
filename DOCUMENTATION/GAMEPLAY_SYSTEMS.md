@@ -151,3 +151,12 @@ El creador indica que todavía hay que añadir batallas. Durante la auditoría s
 ### Casos límite
 ### Riesgos y dependencias
 ### Pruebas de aceptación
+
+
+#### Grupos musicales del Valle Pao — confirmación del creador
+
+En el Valle Pao, lugar donde comienza el juego, hay dos grupos de NPCs vinculados a la música:
+- Un DJ.
+- Una banda de punk con estética/sonido de 8 bits.
+
+El creador ya ha compuesto varias pistas musicales con Suno específicamente para estos NPCs. Por tanto, estas canciones pertenecen a artistas/grupos existentes dentro del mundo de Venequia y pueden servir como base para los casetes musicales que DD01 reproduce en combate. La asignación de canciones concretas a casetes, sus efectos de atributos y las reglas de obtención/uso siguen POR DEFINIR.
