@@ -160,3 +160,12 @@ En el Valle Pao, lugar donde comienza el juego, hay dos grupos de NPCs vinculado
 - Una banda de punk con estética/sonido de 8 bits.
 
 El creador ya ha compuesto varias pistas musicales con Suno específicamente para estos NPCs. Por tanto, estas canciones pertenecen a artistas/grupos existentes dentro del mundo de Venequia y pueden servir como base para los casetes musicales que DD01 reproduce en combate. La asignación de canciones concretas a casetes, sus efectos de atributos y las reglas de obtención/uso siguen POR DEFINIR.
+
+
+#### Disponibilidad de los casetes en el capítulo I — decisión confirmada
+
+- Durante el capítulo I, el jugador podrá conseguir aproximadamente **3 casetes**.
+- Los casetes podrán encontrarse/obtenerse antes de que DD01 se una a la party, pero **no podrán utilizarse mientras DD01 no forme parte del grupo**.
+- Al incorporarse DD01, el jugador podrá utilizar los casetes que haya conseguido, ya que únicamente este personaje puede reproducirlos.
+- La cantidad indicada es aproximada (unos tres) para el primer capítulo.
+- La ubicación y método de obtención de cada casete, y el efecto musical/atributo de cada pista, siguen POR DEFINIR.
