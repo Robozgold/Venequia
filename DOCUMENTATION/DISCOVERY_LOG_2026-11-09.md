@@ -340,3 +340,10 @@ Queda por definir la ubicación exacta de la roca, qué camino o recompensa desb
 El creador confirma que la mayor parte de las batallas del primer capítulo tendrá lugar dentro de las **Cuevas del Indio**. La mazmorra estará habitada por animales y especies o criaturas raras que actuarán como enemigos. Antes de entrar puede haber alrededor de **dos encuentros con animales salvajes**, pero serán solo una pequeña introducción: la mayoría de los combates se concentrarán dentro de las cuevas.
 
 Quedan por definir las especies concretas, su distribución, estadísticas, recompensas y dificultad.
+
+
+### Encuentros visibles por proximidad en las Cuevas del Indio
+
+El creador decide que los enemigos serán **visibles en el mapa** y que, al acercarse JP lo suficiente a ellos, se activará automáticamente la batalla, como en los juegos de Pokémon. No serán encuentros aleatorios al caminar ni hará falta pulsar un botón para iniciar el combate.
+
+Quedan por definir la distancia de activación, si los enemigos persiguen al jugador y si existen rutas para evitar algunos encuentros.
