@@ -113,8 +113,12 @@ El creador explica que **reclutar a Cara de León requiere que JP aprenda a silb
 10. JP sale de la casa y habla con Mateo. Mateo le agradece haber conseguido que su hijo finalmente salga del clóset y, agradecido, le entrega el **Caramelo de Chimó y Yerbabuena**, que estimula el silbido, cumpliendo la promesa que le había hecho.
 11. JP puede revisar la habitación de Tiburcio y encuentra la **tanga rosada/fucsia entre la ropa sucia**. Más adelante se la entrega a **Bichito Birriondo** a cambio de la linterna.
 
-**Conexión entre objetivos:** el **Caramelo de Chimó y Yerbabuena** permite a JP silbar y llamar a Cara de León en la casa del árbol. La tanga de Tiburcio sirve para completar el intercambio con Birriondo y obtener la linterna necesaria para entrar en las Cuevas del Indio. De esta manera, la exploración de Valle Pao conecta el reclutamiento de Cara de León con la misión principal de rescatar a DD01.
+**Efecto del caramelo:** el **Caramelo de Chimó y Yerbabuena** concede a JP la capacidad de silbar de forma temporal. Para el capítulo I, el jugador solo necesita utilizar el silbido en esta ocasión para llamar a Cara de León; después no tendrá que volver a silbar, por lo que no es necesario mantener el efecto activo durante el resto de la aventura.
 
-**Personajes y objetos confirmados en esta cadena:** Mateo Rocadulce (padre de Tiburcio); Tiburcio Rocadulce; Cara de León; el **Caramelo de Chimó y Yerbabuena**, que estimula el silbido; el recorte de periódico con la oferta de trabajo de peluquero; la tanga rosada/fucsia; Bichito Birriondo; la linterna.
+**Posibilidad futura, no decidida:** en otro capítulo podría surgir una situación en la que DD01 silbe si fuera necesario, o en la que el grupo tenga que conseguir otro caramelo. Ninguna de esas opciones está confirmada para capítulos posteriores.
 
-**Pendiente de definir:** nombre del **Caramelo de Chimó y Yerbabuena**; dónde exactamente aparece el recorte de periódico; el texto y los detalles del anuncio; la presentación y los diálogos de la escena de Tiburcio; y la grafía definitiva del nombre de Cara de León frente a «CareLeón».
+**Conexión entre objetivos:** el caramelo permite a JP silbar y llamar a Cara de León en la casa del árbol. La tanga de Tiburcio sirve para completar el intercambio con Birriondo y obtener la linterna necesaria para entrar en las Cuevas del Indio. De esta manera, la exploración de Valle Pao conecta el reclutamiento de Cara de León con la misión principal de rescatar a DD01.
+
+**Personajes y objetos confirmados en esta cadena:** Mateo Rocadulce (padre de Tiburcio); Tiburcio Rocadulce; Cara de León; el **Caramelo de Chimó y Yerbabuena**, que permite silbar temporalmente; el recorte de periódico con la oferta de trabajo de peluquero; la tanga rosada/fucsia; Bichito Birriondo; la linterna.
+
+**Pendiente de definir:** dónde exactamente aparece el recorte de periódico; el texto y los detalles del anuncio; la presentación y los diálogos de la escena de Tiburcio; y la grafía definitiva del nombre de Cara de León frente a «CareLeón».
