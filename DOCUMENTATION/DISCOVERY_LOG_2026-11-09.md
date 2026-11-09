@@ -235,6 +235,6 @@ El creador describe la misión principal con la que comienza el juego:
 - En las afueras de la entrada hay un **guardabosques** que no permite el paso. Exige que el jugador tenga una **linterna** y al menos **dos compañeros**.
 - Este bloqueo obliga al jugador a conseguir a **Cara de León** y a **Yt0** antes de entrar en las Cuevas del Indio.
 
-La secuencia establece una motivación narrativa para reunir al primer equipo y un objetivo intermedio para el jugador. La linterna está confirmada como requisito, pero su obtención y ubicación todavía no se han definido.
+La secuencia establece una motivación narrativa para reunir al primer equipo y un objetivo intermedio para el jugador. El creador confirma que un NPC entregará la linterna a JP a cambio de otro objeto. La identidad del NPC y el objeto que se intercambiará todavía están POR DEFINIR.
 
-**Pendiente:** confirmar la grafía definitiva de «Cara de León» frente a «CareLeón»; definir cómo se consigue la linterna; concretar cómo se incorporan Cara de León y Yt0; y desarrollar los eventos y el rescate de DD01 dentro de las cuevas.
+**Pendiente:** confirmar la grafía definitiva de «Cara de León» frente a «CareLeón»; definir quién es el NPC que intercambia la linterna y cuál es el objeto que pide; concretar cómo se incorporan Cara de León y Yt0; y desarrollar los eventos y el rescate de DD01 dentro de las cuevas.
