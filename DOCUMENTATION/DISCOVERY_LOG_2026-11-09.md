@@ -379,3 +379,10 @@ El creador explica que desde hace un tiempo están ocurriendo cosas extrañas en
 El creador propone introducir la advertencia mediante un NPC, posiblemente el primero que JP encuentra al salir de su casa. Ese personaje comenta que llevan un tiempo sucediendo cosas extrañas y menciona las señales ambientales.
 
 La causa, el origen y la explicación del fenómeno siguen sin definirse. Se registra como un misterio narrativo que puede conectar las criaturas agresivas de las Cuevas del Indio con el encuentro de criaturas en el exterior después de rescatar a DD01, sin dar por confirmada todavía ninguna explicación.
+
+
+### Hallazgo de DD01: inconsciente después de perder contra una criatura de alto nivel
+
+El creador confirma que JP y sus compañeros encuentran a **DD01 inconsciente** dentro de las Cuevas del Indio. Cuando logran despertarlo, DD01 les explica que fue atacado por una criatura de alto nivel y que simplemente fue derrotado en batalla.
+
+La escena muestra que las criaturas de la mazmorra pueden ser muy peligrosas y que DD01 ya sufrió las consecuencias de su agresividad antes de que el grupo lo encontrara. Quedan por definir la identidad de la criatura, el lugar exacto del ataque, cómo despierta el grupo a DD01 y si el enemigo sigue presente.
