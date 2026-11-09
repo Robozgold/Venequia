@@ -92,6 +92,16 @@ Decisión confirmada:
 - Quedan por definir los niveles, el objeto y las cuatro habilidades concretas.
 - La restricción de una habilidad es para el capítulo I; no define la progresión de capítulos posteriores.
 
+### Habilidad especial de Yt0
+
+El creador describe a Yt0 como un fiel creyente del ejercicio físico cuya meta es alcanzar fortaleza física. Su primera habilidad especial tendrá dos usos:
+
+- En el mapa, podrá mover rocas u objetos pesados que bloqueen zonas, siguiendo como referencia funcional la habilidad Strength de Pokémon.
+- En combate, ejecutará un supergolpe que atacará a todos los enemigos.
+- Yt0 aprenderá esta habilidad mediante un objeto especial.
+
+La idea central es que la habilidad conecte exploración y combate. El nombre propio, el objeto que la enseña, el daño, el coste y las reglas exactas de los obstáculos siguen pendientes de definición.
+
 ### Party principal del capítulo I
 
 > exactamente esos son los 4 personajes principales
@@ -115,4 +125,4 @@ La disposición exacta de la batalla, comandos, turnos, estadísticas y reglas t
 
 ## Próximo paso
 
-Definir los niveles en que Jotape y CareLeón aprenden sus habilidades, el objeto que permite a Yt0 aprender la suya y las cuatro habilidades concretas. Antes de ajustar el balance, inspeccionar una copia segura del proyecto RPG Maker MZ y documentar el sistema de batalla actual.
+Definir los niveles en que Jotape y CareLeón aprenden sus habilidades, el objeto que enseña la habilidad de Yt0, su nombre y parámetros de combate, las reglas de los obstáculos que podrá mover y las habilidades concretas de los otros personajes. Antes de ajustar el balance, inspeccionar una copia segura del proyecto RPG Maker MZ y documentar el sistema de batalla actual.
