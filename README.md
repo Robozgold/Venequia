@@ -38,11 +38,12 @@
 ## Cómo empezar
 
 Lee primero:
-1. [Estado y preguntas del proyecto](DOCUMENTATION/PROJECT_OVERVIEW.md)
-2. [Visión del juego](DOCUMENTATION/GAME_VISION.md)
-3. [Estructura y flujo de trabajo](DOCUMENTATION/WORKFLOW.md)
-4. [Plan de incorporación del proyecto RPG Maker](GAME/README.md)
-5. [Instrucciones para agentes](AGENTS/AGENTS.md)
+1. [Cuestionario maestro de descubrimiento](DOCUMENTATION/PROJECT_DISCOVERY_QUESTIONNAIRE.md)
+2. [Estado y preguntas del proyecto](DOCUMENTATION/PROJECT_OVERVIEW.md)
+3. [Visión del juego](DOCUMENTATION/GAME_VISION.md)
+4. [Estructura y flujo de trabajo](DOCUMENTATION/WORKFLOW.md)
+5. [Plan de incorporación del proyecto RPG Maker](GAME/README.md)
+6. [Instrucciones para agentes](AGENTS/AGENTS.md)
 
 ## Convenciones
 
