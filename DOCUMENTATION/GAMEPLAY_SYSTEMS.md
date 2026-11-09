@@ -223,3 +223,10 @@ Estas capacidades son **ideas propuestas para explorar**, no habilidades aprobad
 #### Exclusividad de las capacidades de exploración de DD01 — dirección confirmada
 
 El creador confirma que quiere que ciertas capacidades de exploración y conocimiento sean **exclusivas de DD01**. Esto permitirá crear lugares, secretos, textos, mecanismos o dispositivos que solo puedan descubrirse, interpretarse o utilizarse cuando DD01 esté en la party. La idea de que DD01 deba estar presente para acceder a estos contenidos queda confirmada como dirección de diseño; cuáles capacidades concretas se implementarán y sus límites siguen POR DEFINIR.
+
+
+#### Conexión de DD01 con computadoras y máquinas — alcance aplazado
+
+La posibilidad de que DD01 se conecte directamente con computadoras, terminales u otras máquinas se considera una capacidad futura, pero el creador señala que **quizá no sea necesaria en el capítulo I** para mantener el alcance sencillo. Por ahora queda fuera de los requisitos del primer capítulo y se conserva como posibilidad para capítulos posteriores, sujeta a necesidades narrativas y de diseño.
+
+Para el capítulo I, las capacidades de exploración que se priorizarán para evaluar son la detección de objetos ocultos y la lectura/interpretación de textos que otros personajes no comprenden. Su implementación concreta aún debe definirse.
