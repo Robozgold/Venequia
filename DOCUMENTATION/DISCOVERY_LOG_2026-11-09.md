@@ -138,3 +138,12 @@ La disposición exacta de la batalla, comandos, turnos, estadísticas y reglas t
 ## Próximo paso
 
 Definir los niveles en que Jotape y CareLeón aprenden sus habilidades, el objeto que enseña la habilidad de Yt0, su nombre y parámetros de combate, las reglas de los obstáculos que podrá mover y las habilidades concretas de los otros personajes. Antes de ajustar el balance, inspeccionar una copia segura del proyecto RPG Maker MZ y documentar el sistema de batalla actual.
+
+
+### Música de los NPCs del Valle Pao
+
+El creador confirma que ya ha compuesto varias pistas con Suno específicamente para los dos grupos musicales de NPCs del Valle Pao, lugar donde comienza el juego:
+- Un DJ.
+- Una banda de punk en 8 bits.
+
+Estas pistas son música creada para esos NPCs y forman parte de la identidad musical del mundo de Venequia. Podrán servir como base para los casetes que DD01 reproduce durante los combates. Todavía no se ha definido qué canciones serán casetes, qué efecto de atributos tendrá cada una ni cómo se obtendrán y utilizarán.
