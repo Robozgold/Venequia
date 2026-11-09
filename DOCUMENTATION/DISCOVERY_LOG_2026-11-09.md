@@ -283,6 +283,13 @@ El creador explica la cadena de misiones que permite reclutar a Cara de León y 
 
 **Personajes confirmados:** Mateo Rocadulce (padre de Tiburcio), Tiburcio Rocadulce, Cara de León y Bichito Birriondo.
 
-**Objetos confirmados:** caramelo que estimula el silbido, recorte de periódico con anuncio de trabajo de peluquero, tanga rosada/fucsia de Tiburcio y linterna.
+**Objetos confirmados:** Caramelo de Chimó y Yerbabuena (efecto temporal que permite silbar), recorte de periódico con anuncio de trabajo de peluquero, tanga rosada/fucsia de Tiburcio y linterna.
 
-**Pendiente:** nombre del **Caramelo de Chimó y Yerbabuena**; ubicación exacta del recorte; texto del anuncio; y diálogos y puesta en escena de la conversación con Tiburcio.
+**Pendiente:** ubicación exacta del recorte; texto del anuncio; y diálogos y puesta en escena de la conversación con Tiburcio.
+
+
+### Duración y uso del Caramelo de Chimó y Yerbabuena
+
+El creador aclara que el efecto del **Caramelo de Chimó y Yerbabuena** es temporal: permite a JP silbar aunque no sepa hacerlo. Sin embargo, en el capítulo I el jugador solo necesita silbar en esta ocasión para llamar a Cara de León; después no tendrá que volver a silbar, por lo que no hace falta diseñar otros usos del efecto durante ese capítulo.
+
+**Posibilidad futura, todavía sin decidir:** en un capítulo posterior DD01 podría silbar si la aventura lo requiere, o el jugador podría necesitar conseguir otro Caramelo de Chimó y Yerbabuena. Son posibilidades abiertas, no decisiones confirmadas.
