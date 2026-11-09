@@ -216,3 +216,8 @@ El creador confirma que DD01 tendrá una personalidad propia al comunicarse: har
 El creador confirma que DD01 sabe que es un robot y comprende su propia naturaleza. Aun así, está interesado en conocer las relaciones humanas y entender qué significa ser humano. El creador menciona **Astro Boy** como referencia para esta dimensión del personaje. Es una referencia conceptual; DD01 mantendrá una identidad y desarrollo propios de Venequia.
 
 Esta curiosidad puede reflejarse en preguntas y comentarios sobre amistad, afecto, nostalgia, enfado, sacrificio y otras experiencias humanas. La evolución de su comprensión a lo largo de la historia queda POR DEFINIR.
+
+
+### Evolución gradual de DD01
+
+El creador acepta como buena dirección que DD01 vaya comprendiendo mejor las emociones y relaciones humanas y desarrollando una sensibilidad propia a medida que avanza la historia, capítulo tras capítulo. Se registra como orientación para su arco narrativo a largo plazo; los acontecimientos y cambios concretos quedan POR DEFINIR.
