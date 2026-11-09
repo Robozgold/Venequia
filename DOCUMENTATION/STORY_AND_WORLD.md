@@ -201,3 +201,10 @@ El creador confirma que las **Cuevas del Indio** serán el escenario donde se co
 Antes de entrar en las cuevas puede haber aproximadamente **dos encuentros** con animales salvajes en los alrededores, que funcionarían como primeras experiencias de combate. Sin embargo, la mayoría de las batallas del capítulo se desarrollarán dentro de la mazmorra.
 
 La distribución exacta de enemigos, encuentros, zonas, frecuencia y dificultad queda POR DEFINIR.
+
+
+#### Presentación de enemigos en las Cuevas del Indio
+
+Los enemigos de las Cuevas del Indio serán **visibles en el mapa**. Cuando JP y el grupo se acerquen lo suficiente a una criatura, se iniciará automáticamente una batalla, sin necesidad de interactuar con ella. El sistema toma como referencia los encuentros visibles de Pokémon y sustituye los encuentros aleatorios como método principal en esta mazmorra.
+
+La distancia de activación, el comportamiento de los enemigos al detectar al jugador y la posibilidad de rodearlos quedan POR DEFINIR.
