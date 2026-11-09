@@ -45,7 +45,8 @@ El creador ha definido una progresión inicial deliberadamente limitada:
 - **Dos personajes** aprenderán su habilidad al alcanzar un nivel determinado.
 - **Un personaje** aprenderá su habilidad mediante un objeto.
 - **DD01** ya tendrá su habilidad especial cuando se una a la party.
-- Por tanto, Jotape, CareLeón y Yt0 se repartirán los dos desbloqueos por nivel y el desbloqueo mediante objeto; la asignación concreta queda POR DEFINIR.
+- **Yt0** aprenderá su habilidad especial mediante un objeto.
+- Por tanto, **Jotape y CareLeón** aprenderán sus habilidades al subir de nivel; los niveles exactos quedan POR DEFINIR.
 - La identidad de cada habilidad, los niveles exactos y el objeto concreto quedan POR DEFINIR.
 - Esta limitación corresponde al capítulo I; no determina todavía cuántas habilidades podrán aprender en capítulos posteriores.
 
@@ -67,8 +68,8 @@ La intención es introducir variedad y progresión sin abrumar al jugador ni com
 - Tamaño del grupo y número de enemigos: POR CONFIRMAR.
 - Recursos (vida, energía, etc.): POR CONFIRMAR.
 - Nombre, efecto y función de la habilidad de cada personaje: POR DEFINIR.
-- Qué dos de Jotape, CareLeón y Yt0 aprenden por nivel y a qué nivel: POR DEFINIR.
-- Cuál de Jotape, CareLeón y Yt0 aprende mediante objeto y cuál es el objeto: POR DEFINIR.
+- A qué nivel aprenden Jotape y CareLeón sus habilidades: POR DEFINIR.
+- Qué objeto permite a Yt0 aprender su habilidad: POR DEFINIR.
 - Qué habilidades similares pueden compartir personajes y cómo se diferencian: POR DEFINIR.
 - Inventario de items utilizables en batalla: POR CONFIRMAR.
 - Enemigos, jefes, estadísticas y patrones: POR CONFIRMAR.
