@@ -204,3 +204,8 @@ El creador confirma que quiere que algunas capacidades de exploración y conocim
 ### Conexión de DD01 con computadoras y máquinas: no prioritaria en capítulo I
 
 El creador considera posible que DD01 pueda conectarse directamente con computadoras y máquinas, pero señala que quizá no sea necesario para el primer capítulo, con el fin de mantenerlo sencillo. Se conserva como posibilidad futura y no como requisito de capítulo I. Para el primer capítulo se priorizará evaluar la detección de objetos ocultos y la lectura o interpretación de textos que los demás personajes no entiendan; la implementación concreta sigue pendiente.
+
+
+### Personalidad de DD01
+
+El creador confirma que DD01 tendrá una personalidad propia al comunicarse: hará comentarios curiosos e inteligentes y tendrá **humor involuntario** por su forma de interpretar o expresar las cosas como inteligencia artificial/robot. No será un personaje inexpresivo ni solo una herramienta. Su voz específica, frases recurrentes y evolución narrativa quedan POR DEFINIR.
