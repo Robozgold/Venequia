@@ -110,7 +110,7 @@ El creador explica que **reclutar a Cara de León requiere que JP aprenda a silb
 7. Explorando Valle Pao, JP encuentra un recorte de periódico con un anuncio de Ciudad Caótica en el que solicitan un peluquero para «lavar cabezas».
 8. JP lleva el recorte a Tiburcio. Al recibirlo, Tiburcio encuentra una oportunidad relacionada con su vocación y decide salir del clóset.
 9. Tiburcio abandona Valle Pao y toma rumbo a **Ciudad Caótica** para perseguir su sueño de trabajar como peluquero y lavar cabezas.
-10. Una vez que Tiburcio se ha marchado, Mateo cumple su parte y entrega a JP el caramelo que estimula el silbido.
+10. JP sale de la casa y habla con Mateo. Mateo le agradece haber conseguido que su hijo finalmente salga del clóset y, agradecido, le entrega el caramelo que estimula el silbido, cumpliendo la promesa que le había hecho.
 11. JP puede revisar la habitación de Tiburcio y encuentra la **tanga rosada/fucsia entre la ropa sucia**. Más adelante se la entrega a **Bichito Birriondo** a cambio de la linterna.
 
 **Conexión entre objetivos:** el caramelo permite a JP silbar y llamar a Cara de León en la casa del árbol. La tanga de Tiburcio sirve para completar el intercambio con Birriondo y obtener la linterna necesaria para entrar en las Cuevas del Indio. De esta manera, la exploración de Valle Pao conecta el reclutamiento de Cara de León con la misión principal de rescatar a DD01.
