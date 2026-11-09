@@ -201,3 +201,11 @@ El tercer casete podrá encontrarse dentro de una de las casas de Valle Pao. Com
 #### Interacción para conseguir el tercer casete — confirmación del creador
 
 El jugador encontrará el radio portátil dentro de una casa de Valle Pao. Al interactuar con el radio, obtendrá directamente el casete que está dentro. No se ha definido todavía cuál casa concreta lo contiene.
+
+
+#### Curación de DD01 — progresión confirmada
+
+- La curación inicial de DD01 será **individual**: podrá curar a un personaje de la party cada vez.
+- A medida que DD01 suba de nivel, se desbloqueará la opción de que aprenda una habilidad de **curación para todo el grupo**.
+- El nivel exacto en que se ofrecerá/aprenderá la curación grupal, su coste, potencia y condiciones quedan POR DEFINIR.
+- Esta progresión amplía el rol de apoyo de DD01 de forma gradual. Debe coordinarse con la regla general de una habilidad especial por personaje durante el capítulo I; el alcance temporal y el momento de aprendizaje de la curación grupal aún necesitan concretarse.
