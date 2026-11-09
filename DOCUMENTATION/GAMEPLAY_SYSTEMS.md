@@ -235,3 +235,10 @@ Para el capítulo I, las capacidades de exploración que se priorizarán para ev
 #### Personalidad y voz de DD01 — confirmación del creador
 
 DD01 tendrá una personalidad reconocible al comunicarse. Su condición de inteligencia artificial/robot se reflejará en comentarios **curiosos e inteligentes**, además de **humor involuntario**. No será un robot inexpresivo ni un simple dispositivo funcional: sus observaciones, interpretaciones literales y comentarios podrán aportar humor y carácter a los diálogos del grupo. Los rasgos concretos de su voz, expresiones recurrentes y evolución durante la historia quedan POR DEFINIR.
+
+
+#### Curiosidad de DD01 por la humanidad — confirmación del creador
+
+DD01 **sabe que es un robot** y no está confundido respecto a su naturaleza. Sin embargo, siente interés por conocer las relaciones humanas y comprender qué significa ser humano. El creador cita Astro Boy como referencia de tono/concepto para esta dimensión del personaje. La referencia orienta la curiosidad, sensibilidad y relación del robot con la humanidad; DD01 debe conservar identidad, historia, voz y desarrollo propios de Venequia, sin copiar el personaje ni sus elementos protegidos.
+
+Esta curiosidad puede expresarse mediante preguntas, observaciones y conversaciones sobre amistad, afecto, nostalgia, enfado, sacrificio y otras experiencias humanas. Su comprensión y evolución emocional a lo largo de la historia quedan POR DEFINIR.
