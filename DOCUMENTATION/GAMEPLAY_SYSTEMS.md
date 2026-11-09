@@ -288,3 +288,15 @@ Las **Cuevas del Indio** serán la zona principal de combate del capítulo I. La
 Antes de entrar puede haber aproximadamente **dos encuentros con animales salvajes** en los alrededores, para introducir al jugador al combate. Estos encuentros serán minoritarios frente a los que se desarrollarán dentro de las cuevas.
 
 **Pendiente de diseño y balance:** lista de enemigos, estadísticas, habilidades, recompensas, distribución por zonas, frecuencia de encuentros y curva de dificultad. La concentración de combates en una mazmorra permite introducir progresivamente los sistemas y controlar el ritmo del capítulo.
+
+
+### Encuentros visibles con activación por proximidad
+
+El creador confirma que los enemigos de las Cuevas del Indio serán **visibles directamente en el mapa**, siguiendo como referencia el sistema de encuentros de Pokémon:
+
+- Las criaturas y enemigos aparecen como eventos o sprites visibles durante la exploración.
+- Cuando el jugador se acerca lo suficiente a un enemigo, el encuentro se activa automáticamente y comienza la batalla.
+- No hace falta interactuar ni pulsar un botón para iniciar el combate.
+- No se utilizarán encuentros aleatorios al caminar como sistema principal de la mazmorra.
+
+La distancia o condición exacta que activa el encuentro, el comportamiento de persecución de los enemigos y si el jugador puede evitar algunos encuentros mediante rutas alternativas quedan POR DEFINIR. La referencia a Pokémon es funcional; la presentación y comportamiento concretos serán propios de Venequia.
