@@ -279,3 +279,12 @@ Por tanto, la bebida de JP sirve para resolver el desafío de reclutamiento, no 
 Además de la roca o balón medicinal del gimnasio, habrá una segunda roca pesada dentro de las **Cuevas del Indio** que bloqueará un camino. Para moverla se requiere que **Yt0 forme parte de la party y haya aprendido Fuerza de Loco** al subir de nivel.
 
 La comprobación jugable debe considerar ambas condiciones: presencia de Yt0 en el grupo y aprendizaje de la habilidad. Así, la habilidad funciona como requisito de exploración y recompensa por progresión de nivel. Quedan por definir la ubicación exacta del obstáculo, el contenido o ruta que desbloquea y si es obligatorio u opcional.
+
+
+### Distribución de encuentros del capítulo I
+
+Las **Cuevas del Indio** serán la zona principal de combate del capítulo I. La mayoría de los encuentros tendrán lugar dentro de esta mazmorra y enfrentarán al grupo con animales, criaturas o especies extrañas que habitan allí.
+
+Antes de entrar puede haber aproximadamente **dos encuentros con animales salvajes** en los alrededores, para introducir al jugador al combate. Estos encuentros serán minoritarios frente a los que se desarrollarán dentro de las cuevas.
+
+**Pendiente de diseño y balance:** lista de enemigos, estadísticas, habilidades, recompensas, distribución por zonas, frecuencia de encuentros y curva de dificultad. La concentración de combates en una mazmorra permite introducir progresivamente los sistemas y controlar el ritmo del capítulo.
