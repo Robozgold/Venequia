@@ -90,6 +90,12 @@ Decisión confirmada:
 - Aún falta asignar qué personaje corresponde a cada método, definir el nivel, el objeto y las habilidades concretas.
 - La restricción de una habilidad es para el capítulo I; no define la progresión de capítulos posteriores.
 
+### Party principal del capítulo I
+
+> exactamente esos son los 4 personajes principales
+
+Confirmación del creador: los cuatro personajes principales de la party del capítulo I son **Jotape, CareLeón, Yt0 y DD01**.
+
 La disposición exacta de la batalla, comandos, turnos, estadísticas y reglas todavía deben verificarse y definirse. La referencia no autoriza copiar recursos, textos ni contenido protegido de Final Fantasy.
 
 ## Documentos principales actualizados
