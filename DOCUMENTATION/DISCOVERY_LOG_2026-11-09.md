@@ -235,6 +235,8 @@ El creador describe la misión principal con la que comienza el juego:
 - En las afueras de la entrada hay un **guardabosques** que no permite el paso. Exige que el jugador tenga una **linterna** y al menos **dos compañeros**.
 - Este bloqueo obliga al jugador a conseguir a **Cara de León** y a **Yt0** antes de entrar en las Cuevas del Indio.
 
-La secuencia establece una motivación narrativa para reunir al primer equipo y un objetivo intermedio para el jugador. El creador confirma que un NPC entregará la linterna a JP a cambio de otro objeto. La identidad del NPC y el objeto que se intercambiará todavía están POR DEFINIR.
+La secuencia establece una motivación narrativa para reunir al primer equipo y un objetivo intermedio para el jugador. El creador identifica al NPC como **Bichito Birriondo**, uno de los hermanos del Prof. Bichito. Es un extraterrestre al que le encantan las mujeres y que tiene cierta debilidad por ellas, pero no tiene mucha suerte intentando ligar. Birriondo le pide a JP una **pantaleta/prenda interior femenina** perteneciente a una de las mujeres que están en Valle Pao. A cambio, le entrega la linterna necesaria para entrar en las Cuevas del Indio.
 
-**Pendiente:** confirmar la grafía definitiva de «Cara de León» frente a «CareLeón»; definir quién es el NPC que intercambia la linterna y cuál es el objeto que pide; concretar cómo se incorporan Cara de León y Yt0; y desarrollar los eventos y el rescate de DD01 dentro de las cuevas.
+La identidad de la mujer, la forma exacta de conseguir la prenda y cómo se desarrolla la interacción todavía están POR DEFINIR. También queda pendiente decidir cómo se presenta la situación dentro del tono humorístico del juego y cómo se respeta la voluntad del personaje implicado.
+
+**Pendiente:** confirmar la grafía definitiva de «Cara de León» frente a «CareLeón»; definir qué personaje femenino está relacionado con la prenda y cómo se obtiene; concretar cómo se incorporan Cara de León y Yt0; y desarrollar los eventos y el rescate de DD01 dentro de las cuevas.
