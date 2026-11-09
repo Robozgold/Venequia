@@ -293,3 +293,8 @@ El creador explica la cadena de misiones que permite reclutar a Cara de León y 
 El creador aclara que el efecto del **Caramelo de Chimó y Yerbabuena** es temporal: permite a JP silbar aunque no sepa hacerlo. Sin embargo, en el capítulo I el jugador solo necesita silbar en esta ocasión para llamar a Cara de León; después no tendrá que volver a silbar, por lo que no hace falta diseñar otros usos del efecto durante ese capítulo.
 
 **Posibilidad futura, todavía sin decidir:** en un capítulo posterior DD01 podría silbar si la aventura lo requiere, o el jugador podría necesitar conseguir otro Caramelo de Chimó y Yerbabuena. Son posibilidades abiertas, no decisiones confirmadas.
+
+
+### Respuesta de Cara de León al silbido
+
+El creador confirma que, cuando JP utiliza el silbido frente a la casa del árbol, **Cara de León sale automáticamente**. No se ha indicado ningún paso adicional entre el silbido y su aparición.
